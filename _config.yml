@@ -71,7 +71,7 @@ safe: False
 lsi: False
 username: jobijoba
 repo: jobijoba.github.io
-branch: master
+branch: dev
 relative_source: ../jasper2/
 destination: ../_site/
 production_url:  https://jobijoba.github.io/
