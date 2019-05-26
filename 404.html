@@ -4,19 +4,27 @@ It's a good idea to keep this template as minimal as possible in terms of both f
 -->
 
 <!DOCTYPE html>
-<html>
-<head>
+<html lang="en">
+  <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>404 - Page Not Found</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="/assets/built/screen.css" />
-    <link rel="stylesheet" type="text/css" href="/assets/built/screen.edited.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/assets/built/screen.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/assets/built/screen.edited.css"
+    />
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="A collection of notes about learning Thai language." />
     <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png" />
-    <link rel="canonical" href="/404.html" />
+    <link rel="canonical" href="https://jobijoba.github.io//404.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
@@ -74,37 +82,43 @@ It's a good idea to keep this template as minimal as possible in terms of both f
     <meta name="generator" content="Jekyll 3.6.2" />
     <link rel="alternate" type="application/rss+xml" title="404 - Page Not Found" href="/feed.xml" />
 
-</head>
-<body class="error-template">
+  </head>
+  <body class="error-template">
     <div class="site-wrapper">
+      <header
+        class="site-header outer no-cover"
+      >
+        <div class="inner">
+          <nav class="site-nav-center">
+            
+            <a class="site-nav-logo" href="/"
+              ><img
+                src="/assets/images/logo_transparent.png"
+                alt="My Thai Notes"
+            /></a>
+            
+          </nav>
+        </div>
+      </header>
 
-        <header class="site-header outer no-cover">
-            <div class="inner">
-                <nav class="site-nav-center">
-                    
-                        <a class="site-nav-logo" href="/"><img src="/assets/images/logo_transparent.png" alt="My Thai Notes" /></a>
-                    
-                </nav>
-            </div>
-        </header>
+      <main id="site-main" class="site-main outer" role="main">
+        <div class="inner">
+          <section class="error-message">
+            <h1 class="error-code">404</h1>
+            <p class="error-description">Page not found</p>
+            <a class="error-link" href="/"
+              >Go to the front page →</a
+            >
+          </section>
+        </div>
+      </main>
 
-        <main id="site-main" class="site-main outer" role="main">
-            <div class="inner">
-
-                <section class="error-message">
-                    <h1 class="error-code">404</h1>
-                    <p class="error-description">Page not found</p>
-                    <a class="error-link" href="/">Go to the front page →</a>
-                </section>
-            </div>
-        </main>
-
-        <!-- get "posts" limit="3" -->
-        <aside class="outer">
-            <div class="inner">
-                <div class="post-feed">
-                    <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-                    
+      <!-- get "posts" limit="3" -->
+      <aside class="outer">
+        <div class="inner">
+          <div class="post-feed">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            
 
 
 
@@ -160,12 +174,11 @@ It's a good idea to keep this template as minimal as possible in terms of both f
     
 
 
-                </div>
-            </div>
-        </aside>
-        <!-- /get -->
-
+          </div>
+        </div>
+      </aside>
+      <!-- /get -->
     </div>
-</body>
+  </body>
 </html>
 
