@@ -30,7 +30,7 @@ facebook: ghost # replace by your username
 
 # Disqus
 disqus: True
-disqus_shortname: MyThaiNotes # replace with your disqus username
+disqus_shortname: mythainotes # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-140801744-1 # replace with your GA tracking identifier
