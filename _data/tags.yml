@@ -6,7 +6,7 @@ must-know:
   name: Must know
   description: Very important things to know
   cover: False
-all:
-  name: All
+other:
+  name: Other
   description: False
   cover: False
