@@ -42,3 +42,5 @@ fields:
   name: author
   label: author
   default: Joba
+pages:
+- _posts/on-the-table.md
