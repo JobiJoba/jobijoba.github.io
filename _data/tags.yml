@@ -1,16 +1,12 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
+fast-note:
+  name: Fast note
+  description: Some interesting small notes that are usefull.
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
+must-know:
+  name: Must know
+  description: Very important things to know
+  cover: False
+all:
+  name: All
   description: False
   cover: False
