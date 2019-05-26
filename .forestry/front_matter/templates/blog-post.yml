@@ -5,9 +5,13 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: text
   name: current
   label: current
+  hidden: true
+  default: post
 - type: file
   name: cover
   label: cover
@@ -26,9 +30,14 @@ fields:
 - type: text
   name: class
   label: class
+  default: post-template
+  hidden: true
 - type: text
   name: subclass
   label: subclass
+  hidden: true
+  default: post tag-getting-started
 - type: text
   name: author
   label: author
+  default: Joba
