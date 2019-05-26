@@ -5,15 +5,9 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: current
-  label: current
 - type: file
   name: cover
   label: cover
-- type: boolean
-  name: navigation
-  label: navigation
 - type: text
   name: title
   label: title
