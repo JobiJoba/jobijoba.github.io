@@ -42,18 +42,14 @@ Mike** + "is on" + **the table**
 
 <div class="list-card-thai">
     <div class="post-card-in-post">
-            <div class="post-card-content post-card-content-thai">
-                <span>ปากกา อยู่ บน โต๊ะ</span>
-                <span>Bpakaa yuu bon dto</span>
-                <span>The pen is on the table</span>
-            </div>
+        <span>ปากกา อยู่ บน โต๊ะ</span>
+        <span>Bpakaa yuu bon dto</span>
+        <span>The pen is on the table</span>
     </div>
     <div class="post-card-in-post">
-        <div class="post-card-content post-card-content-thai">
-            <span>แมว อยู่ บน โต๊ะ</span>
-            <span>Maeow yuu bon dto</span>
-            <span>The cat is on the table. </span>
-        </div>
+        <span>แมว อยู่ บน โต๊ะ</span>
+        <span>Maeow yuu bon dto</span>
+        <span>The cat is on the table. </span>
     </div>
 </div>
 
@@ -69,22 +65,21 @@ It does not change the meaning but people add this word when they know if someon
 
 ### And in the past ? 
 
-What if the object was on the table? 
+What if the object was on the table?
+<div class="post-card-in-post">
+        <span>ปากกา เคย วาง อยู่ บน โต๊ะ</span>
+        <span>Bpakaa keuy waang yuu bon dto</span>
+        <span>The pen was on the table</span>
+</div>
 
-#### ปากกา เคย วาง อยู่ บน โต๊ะ
-
-Bpakaa keuy waang yuu bon dto
-
-The pen was on the table
-
-So we just have to add เคย to put it in the past.
+We just have to add เคย to put it in the past.
 
 ## Other examples
 
 From this pattern, we can do a lot of sentences, here are some:
 
-#### ปากกา วาง อยู่ บน ระเบียง
-
-Bpakaa wang yuu bon rabiyang
-
-The pen is on the balcony
+<div class="post-card-in-post">
+        <span>ปากกา วาง อยู่ บน ระเบียง</span>
+        <span>Bpakaa wang yuu bon rabiyang</span>
+        <span>The pen is on the balcony</span>
+</div>
