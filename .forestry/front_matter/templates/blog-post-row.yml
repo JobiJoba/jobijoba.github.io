@@ -1,0 +1,37 @@
+---
+label: Blog Post Row
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: current
+  label: current
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: class
+  label: class
+- type: text
+  name: subclass
+  label: subclass
+- type: text
+  name: author
+  label: author
+- type: file
+  name: cover
+  label: cover
+- type: boolean
+  name: navigation
+  label: navigation
+- type: text
+  name: title
+  label: title
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: vocabulary
+  label: vocabulary
