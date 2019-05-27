@@ -1,7 +1,7 @@
 ---
 layout: postrow
 current: postrow
-date: 2019-05-26 11:54:22 +0000
+date: 2019-05-26T11:54:22.000+00:00
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -16,9 +16,8 @@ vocabulary:
   english: Pen
 - word: โต๊ะ
   english: Table
+
 ---
-
-
 There are a lot of stuff on a table ... but how to say that in Thai? 
 
 The pen is on the table or the phone is on the table. 
