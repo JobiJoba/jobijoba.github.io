@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/unnecessary-word/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-05-27T07:34:39+00:00</updated>
+  <updated>2019-05-27T07:42:13+00:00</updated>
   <id>/tag/unnecessary-word/feed.xml</id>
 
   
@@ -59,18 +59,14 @@ Mike&lt;/strong&gt; + “is on” + &lt;strong&gt;the table&lt;/strong&gt;&lt;/p
 
 &lt;div class=&quot;list-card-thai&quot;&gt;
     &lt;div class=&quot;post-card-in-post&quot;&gt;
-            &lt;div class=&quot;post-card-content post-card-content-thai&quot;&gt;
-                &lt;span&gt;ปากกา อยู่ บน โต๊ะ&lt;/span&gt;
-                &lt;span&gt;Bpakaa yuu bon dto&lt;/span&gt;
-                &lt;span&gt;The pen is on the table&lt;/span&gt;
-            &lt;/div&gt;
+        &lt;span&gt;ปากกา อยู่ บน โต๊ะ&lt;/span&gt;
+        &lt;span&gt;Bpakaa yuu bon dto&lt;/span&gt;
+        &lt;span&gt;The pen is on the table&lt;/span&gt;
     &lt;/div&gt;
     &lt;div class=&quot;post-card-in-post&quot;&gt;
-        &lt;div class=&quot;post-card-content post-card-content-thai&quot;&gt;
-            &lt;span&gt;แมว อยู่ บน โต๊ะ&lt;/span&gt;
-            &lt;span&gt;Maeow yuu bon dto&lt;/span&gt;
-            &lt;span&gt;The cat is on the table. &lt;/span&gt;
-        &lt;/div&gt;
+        &lt;span&gt;แมว อยู่ บน โต๊ะ&lt;/span&gt;
+        &lt;span&gt;Maeow yuu bon dto&lt;/span&gt;
+        &lt;span&gt;The cat is on the table. &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -85,24 +81,23 @@ Mike&lt;/strong&gt; + “is on” + &lt;strong&gt;the table&lt;/strong&gt;&lt;/p
 &lt;h3 id=&quot;and-in-the-past-&quot;&gt;And in the past ?&lt;/h3&gt;
 
 &lt;p&gt;What if the object was on the table?&lt;/p&gt;
+&lt;div class=&quot;post-card-in-post&quot;&gt;
+        &lt;span&gt;ปากกา เคย วาง อยู่ บน โต๊ะ&lt;/span&gt;
+        &lt;span&gt;Bpakaa keuy waang yuu bon dto&lt;/span&gt;
+        &lt;span&gt;The pen was on the table&lt;/span&gt;
+&lt;/div&gt;
 
-&lt;h4 id=&quot;ปากกา-เคย-วาง-อยู่-บน-โต๊ะ&quot;&gt;ปากกา เคย วาง อยู่ บน โต๊ะ&lt;/h4&gt;
-
-&lt;p&gt;Bpakaa keuy waang yuu bon dto&lt;/p&gt;
-
-&lt;p&gt;The pen was on the table&lt;/p&gt;
-
-&lt;p&gt;So we just have to add เคย to put it in the past.&lt;/p&gt;
+&lt;p&gt;We just have to add เคย to put it in the past.&lt;/p&gt;
 
 &lt;h2 id=&quot;other-examples&quot;&gt;Other examples&lt;/h2&gt;
 
 &lt;p&gt;From this pattern, we can do a lot of sentences, here are some:&lt;/p&gt;
 
-&lt;h4 id=&quot;ปากกา-วาง-อยู่-บน-ระเบียง&quot;&gt;ปากกา วาง อยู่ บน ระเบียง&lt;/h4&gt;
-
-&lt;p&gt;Bpakaa wang yuu bon rabiyang&lt;/p&gt;
-
-&lt;p&gt;The pen is on the balcony&lt;/p&gt;</content>
+&lt;div class=&quot;post-card-in-post&quot;&gt;
+        &lt;span&gt;ปากกา วาง อยู่ บน ระเบียง&lt;/span&gt;
+        &lt;span&gt;Bpakaa wang yuu bon rabiyang&lt;/span&gt;
+        &lt;span&gt;The pen is on the balcony&lt;/span&gt;
+&lt;/div&gt;</content>
 
       
       

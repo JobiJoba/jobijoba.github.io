@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-27T07:34:39+00:00</updated><id>/</id><title type="html">My Thai Notes</title><subtitle>A collection of notes about learning Thai language.</subtitle><entry><title type="html">On the table</title><link href="/on-the-table" rel="alternate" type="text/html" title="On the table" /><published>2019-05-26T11:54:22+00:00</published><updated>2019-05-26T11:54:22+00:00</updated><id>/on-the-table</id><content type="html" xml:base="/on-the-table">&lt;p&gt;There are a lot of stuff on a table … but how to say that in Thai?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-27T07:42:13+00:00</updated><id>/</id><title type="html">My Thai Notes</title><subtitle>A collection of notes about learning Thai language.</subtitle><entry><title type="html">On the table</title><link href="/on-the-table" rel="alternate" type="text/html" title="On the table" /><published>2019-05-26T11:54:22+00:00</published><updated>2019-05-26T11:54:22+00:00</updated><id>/on-the-table</id><content type="html" xml:base="/on-the-table">&lt;p&gt;There are a lot of stuff on a table … but how to say that in Thai?&lt;/p&gt;
 
 &lt;p&gt;The pen is on the table or the phone is on the table.&lt;/p&gt;
 
@@ -20,18 +20,14 @@ Mike&lt;/strong&gt; + “is on” + &lt;strong&gt;the table&lt;/strong&gt;&lt;/p
 
 &lt;div class=&quot;list-card-thai&quot;&gt;
     &lt;div class=&quot;post-card-in-post&quot;&gt;
-            &lt;div class=&quot;post-card-content post-card-content-thai&quot;&gt;
-                &lt;span&gt;ปากกา อยู่ บน โต๊ะ&lt;/span&gt;
-                &lt;span&gt;Bpakaa yuu bon dto&lt;/span&gt;
-                &lt;span&gt;The pen is on the table&lt;/span&gt;
-            &lt;/div&gt;
+        &lt;span&gt;ปากกา อยู่ บน โต๊ะ&lt;/span&gt;
+        &lt;span&gt;Bpakaa yuu bon dto&lt;/span&gt;
+        &lt;span&gt;The pen is on the table&lt;/span&gt;
     &lt;/div&gt;
     &lt;div class=&quot;post-card-in-post&quot;&gt;
-        &lt;div class=&quot;post-card-content post-card-content-thai&quot;&gt;
-            &lt;span&gt;แมว อยู่ บน โต๊ะ&lt;/span&gt;
-            &lt;span&gt;Maeow yuu bon dto&lt;/span&gt;
-            &lt;span&gt;The cat is on the table. &lt;/span&gt;
-        &lt;/div&gt;
+        &lt;span&gt;แมว อยู่ บน โต๊ะ&lt;/span&gt;
+        &lt;span&gt;Maeow yuu bon dto&lt;/span&gt;
+        &lt;span&gt;The cat is on the table. &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -46,23 +42,22 @@ Mike&lt;/strong&gt; + “is on” + &lt;strong&gt;the table&lt;/strong&gt;&lt;/p
 &lt;h3 id=&quot;and-in-the-past-&quot;&gt;And in the past ?&lt;/h3&gt;
 
 &lt;p&gt;What if the object was on the table?&lt;/p&gt;
+&lt;div class=&quot;post-card-in-post&quot;&gt;
+        &lt;span&gt;ปากกา เคย วาง อยู่ บน โต๊ะ&lt;/span&gt;
+        &lt;span&gt;Bpakaa keuy waang yuu bon dto&lt;/span&gt;
+        &lt;span&gt;The pen was on the table&lt;/span&gt;
+&lt;/div&gt;
 
-&lt;h4 id=&quot;ปากกา-เคย-วาง-อยู่-บน-โต๊ะ&quot;&gt;ปากกา เคย วาง อยู่ บน โต๊ะ&lt;/h4&gt;
-
-&lt;p&gt;Bpakaa keuy waang yuu bon dto&lt;/p&gt;
-
-&lt;p&gt;The pen was on the table&lt;/p&gt;
-
-&lt;p&gt;So we just have to add เคย to put it in the past.&lt;/p&gt;
+&lt;p&gt;We just have to add เคย to put it in the past.&lt;/p&gt;
 
 &lt;h2 id=&quot;other-examples&quot;&gt;Other examples&lt;/h2&gt;
 
 &lt;p&gt;From this pattern, we can do a lot of sentences, here are some:&lt;/p&gt;
 
-&lt;h4 id=&quot;ปากกา-วาง-อยู่-บน-ระเบียง&quot;&gt;ปากกา วาง อยู่ บน ระเบียง&lt;/h4&gt;
-
-&lt;p&gt;Bpakaa wang yuu bon rabiyang&lt;/p&gt;
-
-&lt;p&gt;The pen is on the balcony&lt;/p&gt;</content><author><name>Joba</name></author><category term="fast-note" /><category term="unnecessary-word" /><summary type="html">There are a lot of stuff on a table … but how to say that in Thai?</summary></entry><entry><title type="html">Welcome to My Thai Notes</title><link href="/welcome" rel="alternate" type="text/html" title="Welcome to My Thai Notes" /><published>2019-05-26T03:00:00+00:00</published><updated>2019-05-26T03:00:00+00:00</updated><id>/welcome</id><content type="html" xml:base="/welcome">&lt;p&gt;This blog intend to keep track of what I’m doing daily to improve my Thai but instead of using a note system which will be local and only for me I decided to use the blog format to share my notes with the world.&lt;/p&gt;
+&lt;div class=&quot;post-card-in-post&quot;&gt;
+        &lt;span&gt;ปากกา วาง อยู่ บน ระเบียง&lt;/span&gt;
+        &lt;span&gt;Bpakaa wang yuu bon rabiyang&lt;/span&gt;
+        &lt;span&gt;The pen is on the balcony&lt;/span&gt;
+&lt;/div&gt;</content><author><name>Joba</name></author><category term="fast-note" /><category term="unnecessary-word" /><summary type="html">There are a lot of stuff on a table … but how to say that in Thai?</summary></entry><entry><title type="html">Welcome to My Thai Notes</title><link href="/welcome" rel="alternate" type="text/html" title="Welcome to My Thai Notes" /><published>2019-05-26T03:00:00+00:00</published><updated>2019-05-26T03:00:00+00:00</updated><id>/welcome</id><content type="html" xml:base="/welcome">&lt;p&gt;This blog intend to keep track of what I’m doing daily to improve my Thai but instead of using a note system which will be local and only for me I decided to use the blog format to share my notes with the world.&lt;/p&gt;
 
 &lt;p&gt;So feel free to comment posts if you see any mistake or want to add more information to a post.&lt;/p&gt;</content><author><name>Joba</name></author><category term="other" /><summary type="html">This blog intend to keep track of what I’m doing daily to improve my Thai but instead of using a note system which will be local and only for me I decided to use the blog format to share my notes with the world.</summary></entry></feed>
