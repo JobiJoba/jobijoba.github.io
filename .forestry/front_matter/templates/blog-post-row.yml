@@ -5,27 +5,39 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: postrow
+  hidden: true
 - type: text
   name: current
   label: current
+  default: postrow
+  hidden: true
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: class
   label: class
+  hidden: true
+  default: post-template
 - type: text
   name: subclass
   label: subclass
+  default: post tag-getting-started
+  hidden: true
 - type: text
   name: author
   label: author
+  default: Joba
 - type: file
   name: cover
   label: cover
 - type: boolean
   name: navigation
   label: navigation
+  default: true
+  hidden: true
 - type: text
   name: title
   label: title
