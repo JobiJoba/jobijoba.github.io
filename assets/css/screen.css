@@ -407,6 +407,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     rgba(39, 44, 49, 0.03) 1px 3px 8px;
   transition: all 0.5s ease;
 }
+.thai-text {
+  font-size: 33px;
+  font-weight: 700;
+}
 .list-card-thai {
   align-self: flex-start;
   display: flex;
