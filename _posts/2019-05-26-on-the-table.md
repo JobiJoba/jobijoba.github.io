@@ -42,7 +42,7 @@ Mike** + "is on" + **the table**
 
 ## The pattern in Thai
 
-The pattern is the same in Thai and you'll always use the same. 
+The pattern is the same in Thai and you'll always use the same.
 
 <div class="list-card-thai">
 <div class="post-card-in-post">
@@ -61,9 +61,7 @@ The pattern is the same in Thai and you'll always use the same.
 
 The first sentences is totally valid but we can also add the word **วาง** (Waang)
 
-#### ปากกา วาง อยู่ บน โต๊ะ
-
-It does not change the meaning but people add this word when they know if someone put it on the table (the action).
+<div class="post-card-in-post"> <span>ปากกา วาง อยู่ บน โต๊ะ</span><span>It does not change the meaning but people add this word when they know if someone put it on the table (the action).</span> </div>
 
 ### And in the past ?
 
