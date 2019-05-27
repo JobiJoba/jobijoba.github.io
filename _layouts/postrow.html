@@ -50,7 +50,7 @@ into the {body} of the default.hbs template -->
                         <h2>Vocabulary</h2>
                         <div>
                         {% for vocab in page.vocabulary %}
-                            <p> {{ vocab }}</p>
+                            <span> {{ vocab.word }}</span> <span> {{ vocab.english }}</span>  <br>
                         {% endfor %}
                     </div>
                 </section>

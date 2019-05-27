@@ -12,11 +12,13 @@ tags:
 - fast-note
 - unnecessary-word
 vocabulary:
-- "<b>ปากกา</b> - Pencil"
-- "โต๊ะ - Table"
-- "แมว - Cat"
-
+- word: ปากกา
+  english: Pen
+- word: โต๊ะ
+  english: Table
 ---
+
+
 There are a lot of stuff on a table ... but how to say that in Thai? 
 
 The pen is on the table or the phone is on the table. 
@@ -37,17 +39,24 @@ Mike** + "is on" + **the table**
 
 ## The pattern in Thai
 
-#### ปากกา อยู่ บน โต๊ะ
+<div class="list-card-thai">
+    <div class="post-card-in-post">
+            <div class="post-card-content post-card-content-thai">
+                <span>ปากกา อยู่ บน โต๊ะ</span>
+                <span>Bpakaa yuu bon dto</span>
+                <span>The pen is on the table</span>
+            </div>
+    </div>
+    <div class="post-card-in-post">
+        <div class="post-card-content post-card-content-thai">
+            <span>แมว อยู่ บน โต๊ะ</span>
+            <span>Maeow yuu bon dto</span>
+            <span>The cat is on the table. </span>
+        </div>
+    </div>
+</div>
 
-Bpakaa yuu bon dto
 
-The pen is on the table
-
-#### แมวอยู่บนโต๊ะ
-
-Maeow yuu bon dto
-
-The cat is on the table. 
 
 ### The unnecessary word วาง
 
