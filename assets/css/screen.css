@@ -2001,6 +2001,7 @@ Usage (In Ghost editor):
   right: 10px;
   margin: 0;
   padding: 20px;
+  background-color: aliceblue;
 }
 
 .post-column-left {
