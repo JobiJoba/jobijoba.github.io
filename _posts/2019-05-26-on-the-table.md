@@ -1,6 +1,6 @@
 ---
-layout: post
-current: post
+layout: postrow
+current: postrow
 date: 2019-05-26 11:54:22 +0000
 class: post-template
 subclass: post tag-getting-started
@@ -11,6 +11,10 @@ title: On the table
 tags:
 - fast-note
 - unnecessary-word
+vocabulary:
+- "<b>ปากกา</b> - Pencil"
+- "โต๊ะ - Table"
+- "แมว - Cat"
 
 ---
 There are a lot of stuff on a table ... but how to say that in Thai? 
