@@ -12,6 +12,8 @@ tags:
 - fast-note
 - unnecessary-word
 vocabulary:
+- word: แมว
+  english: Cat
 - word: ปากกา
   english: Pen
 - word: โต๊ะ
