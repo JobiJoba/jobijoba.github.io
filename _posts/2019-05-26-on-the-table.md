@@ -9,19 +9,19 @@ cover: assets/images/table.jpg
 navigation: true
 title: On the table
 tags:
-- fast-note
-- unnecessary-word
+  - fast-note
+  - unnecessary-word
 vocabulary:
-- word: ปากกา
-  english: Pen
-- word: โต๊ะ
-  english: Table
-- word: แมว
-  english: Cat
-- word: ระเบียง
-  english: Balcony
-
+  - word: ปากกา
+    english: Pen
+  - word: โต๊ะ
+    english: Table
+  - word: แมว
+    english: Cat
+  - word: ระเบียง
+    english: Balcony
 ---
+
 There are a lot of stuff on a table ... but how to say that in Thai?
 
 The pen is on the table or the phone is on the table.
@@ -66,6 +66,7 @@ The first sentences is totally valid but we can also add the word **วาง** 
 ### And in the past ?
 
 What if the object was on the table?
+
 <div class="post-card-in-post">
 <span>ปากกา เคย วาง อยู่ บน โต๊ะ</span>
 <span>Bpakaa keuy waang yuu bon dto</span>
