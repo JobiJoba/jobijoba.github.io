@@ -42,7 +42,7 @@ into the {body} of the default.hbs template -->
             </header>
 
             {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url({{ site.urlbase }}{{ page.cover }})">
+            <figure class="post-full-image" style="background-image: url('{{ site.urlbase }}{{ page.cover }}')">
             </figure>
             {% endif %}
             <div>
@@ -138,10 +138,10 @@ into the {body} of the default.hbs template -->
                 {% if related_posts > 1 %}
                     <article class="read-next-card"
                         {% if site.cover %}
-                            style="background-image: url({{ site.urlbase }}{{ site.cover }})"
+                            style="background-image: url('{{ site.urlbase }}{{ site.cover }}')"
                         {% else %}
                             {% if page.cover %}
-                                style="background-image: url(url({{ site.urlbase }}{{ page.cover }})"{% endif %}
+                                style="background-image: url('{{ site.urlbase }}{{ page.cover }}')"{% endif %}
                         {% endif %}
                     >
                         <header class="read-next-card-header">
