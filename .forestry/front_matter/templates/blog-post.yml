@@ -42,5 +42,3 @@ fields:
   name: author
   label: author
   default: Joba
-pages:
-- _posts/2019-07-01-daily-work-01-july.md
