@@ -10,7 +10,7 @@ urlbase: /
 baseurl: /
 
 # Website info
-title: My Thai Notes
+title: My Thai Note
 description: A collection of notes about learning Thai language.
 cover: assets/images/blog-cover.jpg
 logo: assets/images/logo_transparent.png
@@ -18,7 +18,7 @@ logo_dark: assets/images/logo_transparent.png
 favicon: assets/images/favicon.png
 production_url: https://jobijoba.github.io
 source_url: https://jobijoba.github.io
-CNAME: #add cname for website to be created
+CNAME: mythainote.com #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
