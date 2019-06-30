@@ -1,7 +1,7 @@
 ---
 layout: default
-current: posttube
-class: postube-template
+current: postimage
+class: post-template
 disqus: false
 ---
 
@@ -41,26 +41,18 @@ into the {body} of the default.hbs template -->
                 <h1 class="post-full-title">{{ page.title }}</h1>
             </header>
 
-            {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url({{ site.urlbase }}{{ page.cover }})">
-            </figure>
-            {% endif %}
-            <div>
-                <section class="post-full-content post-column-right" >
-                        <h2>Vocabulary</h2>
-                        <div>
-                        {% for vocab in page.vocabulary %}
-                            <span class="thai-text"> {{ vocab.word }}</span> - <span> {{ vocab.english }}</span>  <br>
-                        {% endfor %}
-                    </div>
-                </section>
-                <section class="post-full-content post-column-left">
-                    <div class="kg-card-markdown">
-                             <iframe width="1206" height="678" src="{{page.youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        {{ content }}
-                    </div>
-                </section>
-          </div>
+           
+
+            <section class="post-full-content grey">
+                    {% if page.cover %}
+                    <image class="post-full-image" src='{{ site.urlbase }}{{ page.cover }}'>
+                    </image>
+                    {% endif %}
+                <div class="kg-card-markdown">
+                    {{ content }}
+                </div>
+            </section>
+
             <!-- Email subscribe form at the bottom of the page -->
             {% if site.subscribers %}
                 <section class="subscribe-form">
@@ -139,10 +131,10 @@ into the {body} of the default.hbs template -->
                 {% if related_posts > 1 %}
                     <article class="read-next-card"
                         {% if site.cover %}
-                            style="background-image: url({{ site.urlbase }}{{ site.cover }})"
+                            style="background-image: url('{{ site.urlbase }}{{ site.cover }}')"
                         {% else %}
                             {% if page.cover %}
-                                style="background-image: url(url({{ site.urlbase }}{{ page.cover }})"{% endif %}
+                                style="background-image: url('{{ site.urlbase }}{{ page.cover }}')"{% endif %}
                         {% endif %}
                     >
                         <header class="read-next-card-header">

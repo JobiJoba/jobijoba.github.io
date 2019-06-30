@@ -29,3 +29,8 @@ Everyone can participate to it, in fact, more people participate to it, more sen
 Except from that, I'm still watching some YouTube video in Thai (mainly recipes to familiarize myself with the Thai language and some vocabulary).
 
 If you are interested here is a good [YouTube channel ครัวพิศพิไล](https://www.youtube.com/channel/UCxokPwBs3cvfyNA_BaKBpbw "YouTube channel")
+
+<br/>
+<br/>
+<br/>
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3826542">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3826542">Pixabay</a>
