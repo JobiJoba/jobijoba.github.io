@@ -64,6 +64,10 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 <span class="blue">บ้านสวย</span>
 
+#### The house is small
+
+<span class="blue">บ้านเล็ก</span>
+
 # Lookup words
 
 The words that I had to search from the dictionary
