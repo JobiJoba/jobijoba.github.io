@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/author/Joba/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-07-01T09:43:22+00:00</updated>
-  <id>/author/Joba/feed.xml</id>
+  <link href="https://mythainote.com/author/Joba/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://mythainote.com/" rel="alternate" type="text/html" />
+  <updated>2019-07-01T11:38:07+00:00</updated>
+  <id>https://mythainote.com/author/Joba/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Weekly work - 01 July</title>
-      <link href="/daily-work-01-july" rel="alternate" type="text/html" title="Weekly work - 01 July" />
+      <link href="https://mythainote.com/daily-work-01-july" rel="alternate" type="text/html" title="Weekly work - 01 July" />
       <published>2019-07-01T05:25:02+00:00</published>
       <updated>2019-07-01T05:25:02+00:00</updated>
-      <id>/daily-work-01-july</id>
-      <content type="html" xml:base="/daily-work-01-july">&lt;p&gt;Dear you, and me,&lt;/p&gt;
+      <id>https://mythainote.com/daily-work-01-july</id>
+      <content type="html" xml:base="https://mythainote.com/daily-work-01-july">&lt;p&gt;Dear you, and me,&lt;/p&gt;
 
 &lt;p&gt;This week, I’ve worked mainly on &lt;a href=&quot;http://thai-notes.com/typing/typingtrainers.shtml&quot; title=&quot;http://thai-notes.com/typing/typingtrainers.shtml&quot;&gt;http://thai-notes.com/typing/typingtrainers.shtml&lt;/a&gt; to master the Thai keyboard. I’ve reached the lesson 25 so far but before continuing I’m trying to master the previous letter so this week I’m repeating the word lesson (For the people interested : 4-8-12-15-17-21-25).&lt;/p&gt;
 
@@ -88,11 +88,11 @@ Image by &lt;a href=&quot;https://pixabay.com/users/geralt-9301/?utm_source=link
   
     <entry>
       <title type="html">On the table</title>
-      <link href="/on-the-table" rel="alternate" type="text/html" title="On the table" />
+      <link href="https://mythainote.com/on-the-table" rel="alternate" type="text/html" title="On the table" />
       <published>2019-05-26T11:54:22+00:00</published>
       <updated>2019-05-26T11:54:22+00:00</updated>
-      <id>/on-the-table</id>
-      <content type="html" xml:base="/on-the-table">&lt;p&gt;There are a lot of stuff on a table … but how to say that in Thai?&lt;/p&gt;
+      <id>https://mythainote.com/on-the-table</id>
+      <content type="html" xml:base="https://mythainote.com/on-the-table">&lt;p&gt;There are a lot of stuff on a table … but how to say that in Thai?&lt;/p&gt;
 
 &lt;p&gt;The pen is on the table or the phone is on the table.&lt;/p&gt;
 
@@ -185,11 +185,11 @@ Mike&lt;/strong&gt; + “is on” + &lt;strong&gt;the table&lt;/strong&gt;&lt;/p
   
     <entry>
       <title type="html">Welcome to My Thai Note</title>
-      <link href="/welcome" rel="alternate" type="text/html" title="Welcome to My Thai Note" />
+      <link href="https://mythainote.com/welcome" rel="alternate" type="text/html" title="Welcome to My Thai Note" />
       <published>2019-05-26T03:00:00+00:00</published>
       <updated>2019-05-26T03:00:00+00:00</updated>
-      <id>/welcome</id>
-      <content type="html" xml:base="/welcome">&lt;p&gt;This blog intend to keep track of what I’m doing daily to improve my Thai but instead of using a note system which will be local and only for me I decided to use the blog format to share my notes with the world.&lt;/p&gt;
+      <id>https://mythainote.com/welcome</id>
+      <content type="html" xml:base="https://mythainote.com/welcome">&lt;p&gt;This blog intend to keep track of what I’m doing daily to improve my Thai but instead of using a note system which will be local and only for me I decided to use the blog format to share my notes with the world.&lt;/p&gt;
 
 &lt;p&gt;So feel free to comment posts if you see any mistake or want to add more information to a post.&lt;/p&gt;</content>
 
