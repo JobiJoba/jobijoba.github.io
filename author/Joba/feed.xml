@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://mythainote.com/author/Joba/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://mythainote.com/" rel="alternate" type="text/html" />
-  <updated>2019-07-01T12:29:20+00:00</updated>
+  <updated>2019-07-01T14:59:30+00:00</updated>
   <id>https://mythainote.com/author/Joba/feed.xml</id>
 
   
@@ -69,13 +69,21 @@
 
 &lt;h4 id=&quot;there-is-a-heart-above-the-door&quot;&gt;There is a heart above the door.&lt;/h4&gt;
 
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;มีใจอยู่เหนือประตู&lt;/span&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;there-is-a-wooden-fence-attached-to-the-house&quot;&gt;There is a wooden fence attached to the house.&lt;/h4&gt;
 
 &lt;h4 id=&quot;there-are-flowers-on-the-fence&quot;&gt;There are flowers on the fence.&lt;/h4&gt;
 
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;มีดอกไม้อยู่บนรั้ว&lt;/span&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;the-flowers-are-red-blue-and-white&quot;&gt;The flowers are red, blue and white.&lt;/h4&gt;
 
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;ดอกไม้มีสีแดงสีน้ำเงินและสีขาว&lt;/span&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;the-grass-is-green&quot;&gt;The grass is green.&lt;/h4&gt;
+
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;หญ้าเป็นสีเขียว&lt;/span&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;lookup-words&quot;&gt;Lookup words&lt;/h1&gt;
 
@@ -89,17 +97,19 @@
 
 &lt;h4 id=&quot;fence-รั้ว&quot;&gt;Fence: &lt;span class=&quot;blue&quot;&gt;รั้ว&lt;/span&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;flower-ดอก&quot;&gt;Flower: &lt;span class=&quot;blue&quot;&gt;ดอก&lt;/span&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;flower-ดอกไม้&quot;&gt;Flower: &lt;span class=&quot;blue&quot;&gt;ดอกไม้&lt;/span&gt;&lt;/h4&gt;
 
 &lt;h4 id=&quot;window-หน้าต่าง&quot;&gt;Window: &lt;span class=&quot;blue&quot;&gt;หน้าต่าง&lt;/span&gt;&lt;/h4&gt;
 
 &lt;h4 id=&quot;grass-หญ้า&quot;&gt;Grass: &lt;span class=&quot;blue&quot;&gt;หญ้า&lt;/span&gt;&lt;/h4&gt;
 
-&lt;h4 id=&quot;above-บน&quot;&gt;Above: &lt;span class=&quot;blue&quot;&gt;บน&lt;/span&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;above-เหนือ---บน&quot;&gt;Above: &lt;span class=&quot;blue&quot;&gt;เหนือ - บน&lt;/span&gt;&lt;/h4&gt;
 
 &lt;h1 id=&quot;pattern-used&quot;&gt;Pattern used&lt;/h1&gt;
 
-&lt;h4 id=&quot;this-is---นี่-คือ-object&quot;&gt;This is … : &lt;span class=&quot;blue&quot;&gt;นี่ คือ (Object)&lt;/span&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;this-is-&quot;&gt;This is …&lt;/h4&gt;
+
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;นี่ คือ (Object)&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
 
