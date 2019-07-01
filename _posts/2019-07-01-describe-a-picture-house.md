@@ -44,13 +44,21 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 #### There is a heart above the door.
 
+<span class="blue">มีใจอยู่เหนือประตู</span>
+
 #### There is a wooden fence attached to the house.
 
 #### There are flowers on the fence.
 
+<span class="blue">มีดอกไม้อยู่บนรั้ว</span>
+
 #### The flowers are red, blue and white.
 
+<span class="blue">ดอกไม้มีสีแดงสีน้ำเงินและสีขาว</span>
+
 #### The grass is green.
+
+<span class="blue">หญ้าเป็นสีเขียว</span>
 
 # Lookup words
 
@@ -64,16 +72,18 @@ The words that I had to search from the dictionary
 
 #### Fence: <span class="blue">รั้ว</span>
 
-#### Flower: <span class="blue">ดอก</span>
+#### Flower: <span class="blue">ดอกไม้</span>
 
 #### Window: <span class="blue">หน้าต่าง</span>
 
 #### Grass: <span class="blue">หญ้า</span>
 
-#### Above: <span class="blue">บน</span>
+#### Above: <span class="blue">เหนือ - บน</span>
 
 # Pattern used
 
-#### This is ... : <span class="blue">นี่ คือ (Object)</span>
+#### This is ... 
+
+<span class="blue">นี่ คือ (Object)</span>
 
 <br/><br/><br/>
