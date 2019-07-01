@@ -9,9 +9,9 @@ cover: assets/images/houseJuly.png
 navigation: false
 title: Describe a Picture - House
 tags:
-  - picture
----
+- picture
 
+---
 Welcome to that new series of stuff that I want to do to improve my Thai.
 
 Every day I'm going to post a picture and try to describe it in Thai.
@@ -68,6 +68,18 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 <span class="blue">บ้านเล็ก</span>
 
+#### There are three flowers
+
+<span class="blue">มีสามดอก</span>
+
+#### There is one door
+
+<span class="blue">มีประตูเดียว</span>
+
+#### There is one window
+
+<span class="blue">มีหน้าต่างเดียว</span>
+
 # Lookup words
 
 The words that I had to search from the dictionary
@@ -97,5 +109,19 @@ The words that I had to search from the dictionary
 #### Use of adjectives - the house is beautiful
 
 <span class="blue">บ้านสวย</span> - Do not use a verb, just the object + adjectif
+
+#### There is ... become To have
+
+Often when you describe something use the verb <span class="blue">มี</span>
+
+then add the object. 
+
+<span class="blue">มีประตู</span>
+
+<span class="blue">มีดอกไม้</span>
+
+#### Single ; One 
+
+Use <span class="blue">เดียว</span> after the object to specify that there is only one or single object.
 
 <br/><br/><br/>
