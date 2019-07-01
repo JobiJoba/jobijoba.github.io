@@ -9,9 +9,9 @@ cover: assets/images/houseJuly.png
 navigation: false
 title: Describe a Picture - House
 tags:
-- picture
-
+  - picture
 ---
+
 Welcome to that new series of stuff that I want to do to improve my Thai.
 
 Every day I'm going to post a picture and try to describe it in Thai.
@@ -24,7 +24,7 @@ This sections will have the verified sentences, the one we are sure are correct 
 
 #### This is a house.
 
-<span class="blue">นี่คือบ้าน</span> <audio controls preload src="assets/sound/มีประตูไม้.mp3">
+<span class="blue">นี่คือบ้าน</span> <audio controls preload src="assets/sound/นี่คือบ้าน.mp3">
 
 # Unverified sentences
 
@@ -90,7 +90,7 @@ The words that I had to search from the dictionary
 
 # Pattern used
 
-#### This is ... 
+#### This is ...
 
 <span class="blue">นี่ คือ (Object)</span>
 
