@@ -9,11 +9,9 @@ cover: assets/images/agendaJuly.jpg
 navigation: false
 title: Weekly work - 01 July
 tags:
-  - progression
+- progression
+
 ---
-
-Dear you, and me,
-
 This week, I've worked mainly on [http://thai-notes.com/typing/typingtrainers.shtml](http://thai-notes.com/typing/typingtrainers.shtml "http://thai-notes.com/typing/typingtrainers.shtml") to master the Thai keyboard. I've reached the lesson 25 so far but before continuing I'm trying to master the previous letter so this week I'm repeating the word lesson (For the people interested : 4-8-12-15-17-21-25).
 
 It becomes harder and harder at the end because of the use of SHIFT and some of the letter are on the numbers but feeling quite good with the other letter right now.
@@ -33,4 +31,4 @@ If you are interested here is a good [YouTube channel ครัวพิศพ�
 <br/>
 <br/>
 <br/>
-Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3826542">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3826542">Pixabay</a>
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3826542">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3826542">Pixabay</a>
