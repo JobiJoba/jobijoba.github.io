@@ -67,3 +67,5 @@ The words that I had to search from the dictionary
 # Pattern used
 
 #### This is ... : นี่ คือ  (Object)
+
+<br/><br/><br/>
