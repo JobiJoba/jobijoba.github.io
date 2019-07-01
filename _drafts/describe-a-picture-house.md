@@ -12,58 +12,58 @@ tags:
 - picture
 
 ---
-Welcome to that new series of stuff that I want to do to improve my Thai. 
+Welcome to that new series of stuff that I want to do to improve my Thai.
 
 Every day I'm going to post a picture and try to describe it in Thai.
 
-Feel free to write a comment down the page with your sentences!  
+Feel free to write a comment down the page with your sentences!
 
 # Verified sentences
 
-This sections will have the verified sentences, the one we are sure are correct in Thai, and so, I'll add the sound to it (so we can also work on the pronunciation). 
+This sections will have the verified sentences, the one we are sure are correct in Thai, and so, I'll add the sound to it (so we can also work on the pronunciation).
 
-##### นี่คือบ้าน  : This is a house.
+#### นี่คือบ้าน  : This is a house.
 
 # Unverified sentences
 
-This sections will have all the draft sentences, I'm still not sure that everything is correct or even the sentences are just still in plain english and need to be translated. 
+This sections will have all the draft sentences, I'm still not sure that everything is correct or even the sentences are just still in plain english and need to be translated.
 
-##### The house have a chimney and a red roof.
+#### The house have a chimney and a red roof.
 
-##### There is a wooden door.
+#### There is a wooden door.
 
-##### The door is brown.
+#### The door is brown.
 
-##### There is a heart above the door.
+#### There is a heart above the door.
 
-##### There is a wooden fence attached to the house.
+#### There is a wooden fence attached to the house.
 
-##### There are flowers on the fence. 
+#### There are flowers on the fence.
 
-##### The flowers are red, blue and white. 
+#### The flowers are red, blue and white.
 
-##### The grass is green.
+#### The grass is green.
 
 # Lookup words
 
 The words that I had to search from the dictionary
 
-##### Roof: **หลังคา**
+#### Roof: **หลังคา**
 
-##### Chimney: **ปล่องไฟ**
+#### Chimney: **ปล่องไฟ**
 
-##### Heart: ใจ
+#### Heart: ใจ
 
-Fence:
+#### Fence:
 
-Flower:
+#### Flower:
 
-Window:
+#### Window:
 
-Grass:
+#### Grass:
 
-Above:
+#### Above:
 
 # Pattern used
 
-##### This is ... : นี่ คือ  (Object) 
+#### This is ... : นี่ คือ  (Object)
