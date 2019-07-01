@@ -2019,3 +2019,10 @@ Usage (In Ghost editor):
     width: 100%;
   }
 }
+.grey {
+  background-color: #f5f6f6;
+}
+
+.blueText {
+  color: #209cdf;
+}
