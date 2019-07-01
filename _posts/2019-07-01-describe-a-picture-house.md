@@ -24,7 +24,7 @@ This sections will have the verified sentences, the one we are sure are correct 
 
 #### This is a house.
 
-<span class="blue">นี่คือบ้าน</span>
+<span class="blue">นี่คือบ้าน</span> <audio controls preload src="assets/sound/มีประตูไม้.mp3">
 
 # Unverified sentences
 
