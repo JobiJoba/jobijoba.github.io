@@ -56,7 +56,7 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 The words that I had to search from the dictionary
 
-#### Roof: <span class="blue">**หลังคา</span>**
+#### Roof: <span class="blue">หลังคา</span>
 
 #### Chimney: **ปล่องไฟ**
 
