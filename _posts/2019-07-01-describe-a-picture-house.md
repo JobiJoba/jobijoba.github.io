@@ -6,7 +6,7 @@ class: post-template
 subclass: post tag-getting-started
 author: Joba
 cover: assets/images/houseJuly.png
-navigation: false
+navigation: true
 title: Describe a Picture - House
 tags:
 - picture
