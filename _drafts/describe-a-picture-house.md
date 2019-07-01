@@ -1,7 +1,7 @@
 ---
 layout: postimage
 current: postimage
-date: 2019-07-01 09:01:09 +0000
+date: 2019-07-01T09:01:09.000+00:00
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -37,6 +37,8 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 ### มีประตูไม้
 
 #### The door is brown.
+
+### ประตูเป็นสีน้ำตาล
 
 #### There is a heart above the door.
 
