@@ -34,7 +34,7 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 #### There is a wooden door.
 
-### มีประตูไม้
+### <span class="blueText">มีประตูไม้</span>
 
 #### The door is brown.
 
