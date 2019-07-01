@@ -9,19 +9,19 @@ cover: assets/images/table.jpg
 navigation: true
 title: On the table
 tags:
-  - fast-note
-  - unnecessary-word
+- fast-note
+- unnecessary-word
 vocabulary:
-  - word: ปากกา
-    english: Pen
-  - word: โต๊ะ
-    english: Table
-  - word: แมว
-    english: Cat
-  - word: ระเบียง
-    english: Balcony
----
+- word: ปากกา
+  english: Pen
+- word: โต๊ะ
+  english: Table
+- word: แมว
+  english: Cat
+- word: ระเบียง
+  english: Balcony
 
+---
 There are a lot of stuff on a table ... but how to say that in Thai?
 
 The pen is on the table or the phone is on the table.
@@ -84,8 +84,3 @@ From this pattern, we can do a lot of sentences, here are some:
 <span>Bpakaa wang yuu bon rabiyang</span>
 <span>The pen is on the balcony</span>
 </div>
-
-<br/>
-<br/>
-<br/>
-Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3826542">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3826542">Pixabay</a>
