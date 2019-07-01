@@ -2020,9 +2020,12 @@ Usage (In Ghost editor):
   }
 }
 .grey {
-  background-color: #f5f6f6;
+  background-color: #f5f6f6 !important;
 }
 
-.blueText {
-  color: #209cdf;
+p span.blue {
+  color: #209cdf !important;
+  margin: 0.5em 0 0.2em;
+  font-size: 2.8rem;
+  font-weight: 700;
 }

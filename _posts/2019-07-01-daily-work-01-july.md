@@ -9,10 +9,12 @@ cover: assets/images/agendaJuly.jpg
 navigation: false
 title: Weekly work - 01 July
 tags:
-- progression
-
+  - progression
 ---
+
 Dear you, and me,
+
+<span class="blue">มีประตูไม้</span>
 
 This week, I've worked mainly on [http://thai-notes.com/typing/typingtrainers.shtml](http://thai-notes.com/typing/typingtrainers.shtml "http://thai-notes.com/typing/typingtrainers.shtml") to master the Thai keyboard. I've reached the lesson 25 so far but before continuing I'm trying to master the previous letter so this week I'm repeating the word lesson (For the people interested : 4-8-12-15-17-21-25).
 

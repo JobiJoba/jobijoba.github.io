@@ -9,9 +9,9 @@ cover: assets/images/houseJuly.png
 navigation: false
 title: Describe a Picture - House
 tags:
-- picture
-
+  - picture
 ---
+
 Welcome to that new series of stuff that I want to do to improve my Thai.
 
 Every day I'm going to post a picture and try to describe it in Thai.
@@ -22,7 +22,9 @@ Feel free to write a comment down the page with your sentences!
 
 This sections will have the verified sentences, the one we are sure are correct in Thai, and so, I'll add the sound to it (so we can also work on the pronunciation).
 
-#### นี่คือบ้าน  : This is a house.
+#### This is a house.
+
+<span class="blue">นี่คือบ้าน</span>
 
 # Unverified sentences
 
@@ -30,11 +32,11 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 #### The house have a chimney and a red roof.
 
-### บ้านมีปล่องไฟและหลังคาสีแดง
+<span class="blue">บ้านมีปล่องไฟและหลังคาสีแดง</span>
 
 #### There is a wooden door.
 
-### <span class="blueText">มีประตูไม้</span>
+<span class="blue">มีประตูไม้</span>
 
 #### The door is brown.
 
@@ -72,6 +74,6 @@ The words that I had to search from the dictionary
 
 # Pattern used
 
-#### This is ... : นี่ คือ  (Object)
+#### This is ... : นี่ คือ (Object)
 
 <br/><br/><br/>
