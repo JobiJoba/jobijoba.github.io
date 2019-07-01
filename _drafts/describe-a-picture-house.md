@@ -58,22 +58,22 @@ The words that I had to search from the dictionary
 
 #### Roof: <span class="blue">หลังคา</span>
 
-#### Chimney: **ปล่องไฟ**
+#### Chimney: <span class="blue">ปล่องไฟ</span>
 
-#### Heart: ใจ
+#### Heart: <span class="blue">ใจ</span>
 
-#### Fence: รั้ว
+#### Fence: <span class="blue">รั้ว</span>
 
-#### Flower: ดอก
+#### Flower: <span class="blue">ดอก</span>
 
-#### Window: หน้าต่าง
+#### Window: <span class="blue">หน้าต่าง</span>
 
-#### Grass: หญ้า
+#### Grass: <span class="blue">หญ้า</span>
 
-#### Above: บน
+#### Above: <span class="blue">บน</span>
 
 # Pattern used
 
-#### This is ... : นี่ คือ (Object)
+#### This is ... : <span class="blue">นี่ คือ (Object)</span>
 
 <br/><br/><br/>
