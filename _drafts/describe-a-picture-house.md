@@ -9,9 +9,9 @@ cover: assets/images/houseJuly.png
 navigation: false
 title: Describe a Picture - House
 tags:
-  - picture
----
+- picture
 
+---
 Welcome to that new series of stuff that I want to do to improve my Thai.
 
 Every day I'm going to post a picture and try to describe it in Thai.
@@ -40,7 +40,7 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 #### The door is brown.
 
-### ประตูเป็นสีน้ำตาล
+<span class="blue">ประตูเป็นสีน้ำตาล</span>
 
 #### There is a heart above the door.
 
@@ -56,7 +56,7 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 The words that I had to search from the dictionary
 
-#### Roof: **หลังคา**
+#### Roof: <span class="blue">**หลังคา</span>**
 
 #### Chimney: **ปล่องไฟ**
 
