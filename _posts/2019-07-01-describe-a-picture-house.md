@@ -60,6 +60,10 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 <span class="blue">หญ้าเป็นสีเขียว</span>
 
+#### The house is beautiful
+
+<span class="blue">บ้านสวย</span>
+
 # Lookup words
 
 The words that I had to search from the dictionary
@@ -85,5 +89,9 @@ The words that I had to search from the dictionary
 #### This is ... 
 
 <span class="blue">นี่ คือ (Object)</span>
+
+#### Use of adjectives - the house is beautiful
+
+<span class="blue">บ้านสวย</span> - Do not use a verb, just the object + adjectif
 
 <br/><br/><br/>
