@@ -1,17 +1,17 @@
 ---
 layout: post
 current: post
-date: 2019-07-01 05:25:02 +0000
+date: 2019-07-01T05:25:02.000+00:00
 class: post-template
 subclass: post tag-getting-started
 author: Joba
 cover: assets/images/agendaJuly.jpg
 navigation: false
-title: Daily work - 01 July
+title: Weekly work - 01 July
 tags:
-  - progression
----
+- progression
 
+---
 Dear you, and me,
 
 This week, I've worked mainly on [http://thai-notes.com/typing/typingtrainers.shtml](http://thai-notes.com/typing/typingtrainers.shtml "http://thai-notes.com/typing/typingtrainers.shtml") to master the Thai keyboard. I've reached the lesson 25 so far but before continuing I'm trying to master the previous letter so this week I'm repeating the word lesson (For the people interested : 4-8-12-15-17-21-25).
