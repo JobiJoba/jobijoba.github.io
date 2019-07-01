@@ -30,7 +30,11 @@ This sections will have all the draft sentences, I'm still not sure that everyth
 
 #### The house have a chimney and a red roof.
 
+### บ้านมีปล่องไฟและหลังคาสีแดง
+
 #### There is a wooden door.
+
+### มีประตูไม้
 
 #### The door is brown.
 
@@ -54,15 +58,15 @@ The words that I had to search from the dictionary
 
 #### Heart: ใจ
 
-#### Fence:
+#### Fence: รั้ว
 
-#### Flower:
+#### Flower: ดอก
 
-#### Window:
+#### Window: หน้าต่าง
 
-#### Grass:
+#### Grass: หญ้า
 
-#### Above:
+#### Above: บน
 
 # Pattern used
 
