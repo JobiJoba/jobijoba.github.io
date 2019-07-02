@@ -1,7 +1,7 @@
 ---
 layout: postimage
 current: postimage
-date: 2019-07-02 18:59:37 +0000
+date: 2019-07-02 08:00:37 +0000
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -84,4 +84,4 @@ Ex:
 
 <span class="blue">ใหญ่กว่า</span> Bigger than 
 
-<span class="blue">เร็วกว่า</span> Faster than 
+<span class="blue">เร็วกว่า</span> Faster than
