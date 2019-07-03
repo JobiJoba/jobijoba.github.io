@@ -12,6 +12,8 @@ tags:
 - picture
 
 ---
+Who didn't took the night train from Bangkok to Chiang Mai ? It's a great experience 
+
 Feel free to write a comment down the page with your sentences!
 
 # Verified sentences
@@ -76,12 +78,12 @@ Feel free to write a comment down the page with your sentences!
 
 #### .. slower than ..
 
-Use the <span class="blue">ช้ากว่า</span> in between the two things you are comparing. 
+Use the <span class="blue">ช้ากว่า</span> in between the two things you are comparing.
 
-The real big deal here is the <span class="blue">กว่า</span> put any word with it to make a comparison. 
+The real big deal here is the <span class="blue">กว่า</span> put any word with it to make a comparison.
 
-Ex: 
+Ex:
 
-<span class="blue">ใหญ่กว่า</span> Bigger than 
+<span class="blue">ใหญ่กว่า</span> Bigger than
 
 <span class="blue">เร็วกว่า</span> Faster than
