@@ -32,7 +32,7 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">อาหารไทยส่วนใหญ่มีพริก</span>
 
-I'm thinking of that way ... but which one is correct ?? 
+I'm thinking of that way ... but which one is correct ??
 
 <span class="blue">ส่วนใหญ่อาหารไทยมีพริก</span>
 
@@ -52,7 +52,7 @@ I'm thinking of that way ... but which one is correct ??
 
 <span class="blue">ไม่ชอบพริกเพราะมันเผ็ดมาก</span>
 
-(I removed the I because we never really use it ...) 
+(I removed the I because we never really use it ...)
 
 # Lookup words
 
@@ -72,14 +72,6 @@ I'm thinking of that way ... but which one is correct ??
 
 <span class="blue">นี่ คือ (Object)</span>
 
-#### .. slower than ..
+#### .. Because ..
 
-Use the <span class="blue">ช้ากว่า</span> in between the two things you are comparing.
-
-The real big deal here is the <span class="blue">กว่า</span> put any word with it to make a comparison.
-
-Ex:
-
-<span class="blue">ใหญ่กว่า</span> Bigger than
-
-<span class="blue">เร็วกว่า</span> Faster than
+Use <span class="blue">เพราะ</span> นพ <span class="blue">เพราะว่า</span>  at the exact same position as english in general. 
