@@ -43,6 +43,7 @@ fields:
   label: author
   default: Joba
 pages:
+- _posts/describe-a-picture-chilli.md
 - _posts/2019-07-02-describe-a-picture-train.md
 - _posts/2019-07-01-describe-a-picture-house.md
 - _posts/2019-07-01-daily-work-01-july.md
