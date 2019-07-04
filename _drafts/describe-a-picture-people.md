@@ -83,3 +83,13 @@ Use the word <span class="blue">กำลัง</span> in front of the verb to m
 I've already wrote on note about that. 
 
 Check it out [here](https://mythainote.com/on-the-table "On the ...")
+
+# Other
+
+#### Pronoun
+
+We used pronouns in those sentences. 
+
+#### They: <span class="blue">พวกเขา</span>
+
+#### She: <span class="blue">เธอ</span>
