@@ -6,7 +6,7 @@ class: post-template
 subclass: post tag-getting-started
 author: Joba
 cover: assets/images/restaurant-1.jpg
-navigation: false
+navigation: true
 title: Describe a picture - People
 tags:
 - picture
@@ -52,6 +52,10 @@ No translation yet.
 
 <span class="blue">เธอสวย</span>
 
+#### They are happy.
+
+<span class="blue">พวกเขามีความสุข</span>
+
 # Lookup words
 
 #### Picture: <span class="blue">ภาพ</span>
@@ -66,7 +70,7 @@ No translation yet.
 
 #### To smile: <span class="blue">ยิ้ม</span>
 
-#### 
+#### Happy: <span class="blue">มีความสุข</span>
 
 # Pattern used
 
