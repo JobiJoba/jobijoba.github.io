@@ -32,10 +32,6 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">อาหารไทยส่วนใหญ่มีพริก</span>
 
-I'm thinking of that way ... but which one is correct ??
-
-<span class="blue">ส่วนใหญ่อาหารไทยมีพริก</span>
-
 #### Chilli is green or red.
 
 <span class="blue">พริกเขียวหรือแดง</span>
@@ -76,7 +72,7 @@ I'm thinking of that way ... but which one is correct ??
 
 Use <span class="blue">เพราะ</span> นพ <span class="blue">เพราะว่า</span>  at the exact same position as english in general.
 
-#### Most of ... (To validate)
+#### Most of ...
 
 It's the inverse from English, so if you say most of people, in Thai you are going to say
 
@@ -87,3 +83,5 @@ Ex:
 Most of Thai dishes <span class="blue">อาหารไทยส่วนใหญ่</span>
 
 Most of people <span class="blue">คนส่วนใหญ่</span>
+
+I also saw somewhere instead of   <span class="blue">ใหญ่</span> they use <span class="blue">มาก</span> ... I still don't know why so if you have an idea ! 
