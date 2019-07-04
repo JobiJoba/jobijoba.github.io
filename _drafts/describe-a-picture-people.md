@@ -12,3 +12,52 @@ tags:
 - picture
 
 ---
+Most of Thai people are very friendly! Let's describe them with this picture
+
+Feel free to write a comment down the page with your sentences!
+
+# Verified sentences
+
+None yet
+
+# Unverified sentences
+
+#### The picture shows a man and a woman.
+
+<span class="blue">ภาพแสดงชายและหญิง</span>
+
+#### The woman has long hair.
+
+<span class="blue">ผู้หญิงมีผมยาว</span>
+
+#### The man wears glasses.
+
+<span class="blue">ผู้ชายสวมแว่นตา</span>
+
+#### The plate is on the table.
+
+<span class="blue">จานอยู่บนโต๊ะ</span>
+
+(see my [note about the pattern on the table](https://mythainote.com/on-the-table "pattern on the .."))
+
+#### The woman is smiling
+
+<span class="blue">ผู้หญิงกำลังยิ้ม</span>
+
+# Lookup words
+
+#### Picture: <span class="blue">ภาพ</span>
+
+#### To show: <span class="blue">แสดง</span>
+
+#### Long: <span class="blue">ยาว</span>
+
+#### To wear: <span class="blue">สวม</span>
+
+#### Glasses: <span class="blue">แว่นตา</span>
+
+#### Smile: <span class="blue">ยิ้ม</span>
+
+#### 
+
+# Pattern used
