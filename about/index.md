@@ -3,15 +3,25 @@ layout: page
 current: about
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: assets/images/ghost.png
 class: page-template
-subclass: 'post page'
+subclass: post page
+
 ---
+I created **MyThaiNote** because I'm not studying Thai every day ! 
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+For me, one of the **core principles** of learning a language is to work on it **every day** even if it's only 10 minutes!
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+So creating this website is for me a **challenge** (create at least a blog post every day) and at the same time a simple platform to host online all my **work on the language**.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+Currently, I'm working without a teacher, so putting my work online allow me also to be corrected by the community on what I'm doing.  
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+As an example, the **Describe a picture** section can be **enriched** by the **community** a lot! feel free to send me **sentences** that you think will be matching the picture, or say "Hey that sentence should use that word instead of that word, etc..."
+
+**About myself,**
+
+I'm a **mobile developer** and I developed the applications [Read Write Speak Thai on Android](https://play.google.com/store/apps/details?id=com.joba.readthaifun&hl=en "Read Write Speak Thai Android") - you can also visit the [website](https://readthaiapp.github.io/ "Read Thai App Website"). The iOS version had to be removed (because of an account switch and I couldn't transfer the app) but I'll try to upload a new version soon. 
+
+I've been living in **Thailand** from 3 years (total count, travel in between etc) and I'm originally from Belgium. I mainly spent my time in **Chiang Mai**! 
+
+ 
