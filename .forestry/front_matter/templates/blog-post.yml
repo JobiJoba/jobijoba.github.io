@@ -42,5 +42,3 @@ fields:
   name: author
   label: author
   default: Joba
-pages:
-- thankyou.md
