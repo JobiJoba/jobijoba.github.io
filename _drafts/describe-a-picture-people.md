@@ -44,6 +44,14 @@ None yet
 
 <span class="blue">ผู้หญิงกำลังยิ้ม</span>
 
+#### The man is also smiling
+
+No translation yet. 
+
+#### She is beautiful.
+
+<span class="blue">เธอสวย</span>
+
 # Lookup words
 
 #### Picture: <span class="blue">ภาพ</span>
@@ -56,8 +64,18 @@ None yet
 
 #### Glasses: <span class="blue">แว่นตา</span>
 
-#### Smile: <span class="blue">ยิ้ม</span>
+#### To smile: <span class="blue">ยิ้ม</span>
 
 #### 
 
 # Pattern used
+
+#### Present continuous
+
+Use the word <span class="blue">กำลัง</span> in front of the verb to make the "ing" form of english ;) 
+
+#### On the ... 
+
+I've already wrote on note about that. 
+
+Check it out [here](https://mythainote.com/on-the-table "On the ...")
