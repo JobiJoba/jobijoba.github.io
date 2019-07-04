@@ -1,7 +1,7 @@
 ---
 layout: postimage
 current: postimage
-date: 2019-07-03 13:27:07 +0000
+date: 2019-07-03T13:27:07.000+00:00
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -74,4 +74,16 @@ I'm thinking of that way ... but which one is correct ??
 
 #### .. Because ..
 
-Use <span class="blue">เพราะ</span> นพ <span class="blue">เพราะว่า</span>  at the exact same position as english in general. 
+Use <span class="blue">เพราะ</span> นพ <span class="blue">เพราะว่า</span>  at the exact same position as english in general.
+
+#### Most of ... (To validate)
+
+It's the inverse from English, so if you say most of people, in Thai you are going to say
+
+**people most of**
+
+Ex: 
+
+Most of Thai dishes <span class="blue">อาหารไทยส่วนใหญ่</span>
+
+Most of people <span class="blue">คนส่วนใหญ่กินข้าว</span>
