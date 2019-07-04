@@ -86,4 +86,4 @@ Ex:
 
 Most of Thai dishes <span class="blue">อาหารไทยส่วนใหญ่</span>
 
-Most of people <span class="blue">คนส่วนใหญ่กินข้าว</span>
+Most of people <span class="blue">คนส่วนใหญ่</span>
