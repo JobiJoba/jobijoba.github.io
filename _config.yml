@@ -2,7 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
-language: 'en'
+language: "en"
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -17,8 +17,6 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/logo_transparent.png
 logo_dark: assets/images/logo_transparent.png
 favicon: assets/images/favicon.png
-production_url: https://jobijoba.github.io
-source_url: https://jobijoba.github.io
 CNAME: mythainote.com #add cname for website to be created
 
 # Social info
@@ -75,8 +73,9 @@ repo: jobijoba.github.io
 branch: dev
 relative_source: ../jasper2/
 destination: ../_site/
-production_url:  https://jobijoba.github.io/
-source_url:  https://jobijoba.github.io/
+production_url: https://mythainote.com
+source_url: https://mythainote.com
+subscribers: true
 
 exclude:
   - assets/css

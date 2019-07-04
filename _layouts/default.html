@@ -29,13 +29,8 @@
             }
         </style>
     <![endif]-->
-    <script type="module" src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule="" src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons/ionicons.js"></script>
-    <script type="javascript/text">
-        function play(path){
-            
-        }
-    </script>
+    
+   
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
 
@@ -79,19 +74,13 @@
                     <img class="subscribe-overlay-logo" src="{{ site.urlbase }}{{ site.logo }}" alt="{{ site.title }}" />
                 {% endif %}
                 <h1 class="subscribe-overlay-title">Subscribe to {{ site.title }}</h1>
-                <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
+                <p class="subscribe-overlay-description">Receive picture before everyone and keep up motivation!</p>
                 {% include subscribe-form.html placeholder="youremail@example.com" %}
             </div>
         </div>
     {% endif %}
 
-    <!-- highlight.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
-    <script>$(document).ready(function() {
-      $('pre code').each(function(i, block) {
-        hljs.highlightBlock(block);
-      });
-    });</script>
+  
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
     <script
@@ -100,8 +89,7 @@
         crossorigin="anonymous">
     </script>
     <script type="text/javascript" src="{{ site.urlbase }}assets/js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
-
+   
 
     <!-- Paginator increased to "infinit" in _config.yml -->
     <!-- if paginator.posts  -->
