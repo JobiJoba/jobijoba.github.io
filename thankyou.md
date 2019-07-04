@@ -9,7 +9,6 @@ cover: ''
 navigation: false
 title: thankyou
 tags: []
-published: false
 
 ---
 Thank you for register to the newsletter! 
