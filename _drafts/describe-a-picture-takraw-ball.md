@@ -27,9 +27,9 @@ Feel free to write a comment down the page with your sentences!
 
 # Unverified sentences
 
-#### The picture shows a man and a woman.
+#### The ball is on the ground.
 
-<span class="blue">ภาพแสดงชายและหญิง</span>
+<span class="blue">บอลอยู่บนพื้นดิน</span>
 
 # Lookup words
 
@@ -42,6 +42,8 @@ Feel free to write a comment down the page with your sentences!
 (The name of the sport)
 
 #### Takraw ball: <span class="blue">ลูกตะกร้อ</span>
+
+#### Ground: <span class="blue">พื้นดิน</span>
 
 # Pattern used
 
