@@ -19,11 +19,11 @@ Feel free to write a comment down the page with your sentences!
 
 #### This is a ball.
 
-<span class="blue">นี่คือบอล</span>
+<span class="blue">นี่คือบอล</span><audio controls preload src="assets/sound/นี่คือบอล.mp3">
 
 #### This is a Takraw ball.
 
-<span class="blue">นี่คือลูกตะกร้อ</span>
+<span class="blue">นี่คือลูกตะกร้อ</span><audio controls preload src="assets/sound/นี่คือลูกตะกร้อ.mp3">
 
 # Unverified sentences
 
@@ -35,7 +35,7 @@ Feel free to write a comment down the page with your sentences!
 
 #### Ball: <span class="blue">บอล</span>
 
-(English word !) 
+(English word !)
 
 #### Takraw: <span class="blue">ตะกร้อ</span>
 
@@ -47,6 +47,6 @@ Feel free to write a comment down the page with your sentences!
 
 #### Present continuous
 
-Use the word <span class="blue">กำลัง</span> in front of the verb to make the "ing" form of english ;) 
+Use the word <span class="blue">กำลัง</span> in front of the verb to make the "ing" form of english ;)
 
 # Other
