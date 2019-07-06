@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://mythainote.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mythainote.com/" rel="alternate" type="text/html" /><updated>2019-07-06T07:09:29+00:00</updated><id>https://mythainote.com/</id><title type="html">My Thai Note</title><subtitle>A collection of notes about learning Thai language.</subtitle><entry><title type="html">Describe a picture - People</title><link href="https://mythainote.com/describe-a-picture-people" rel="alternate" type="text/html" title="Describe a picture - People" /><published>2019-07-04T08:00:43+00:00</published><updated>2019-07-04T08:00:43+00:00</updated><id>https://mythainote.com/describe-a-picture-people</id><content type="html" xml:base="https://mythainote.com/describe-a-picture-people">&lt;p&gt;Most of Thai people are very friendly! Let’s describe them with this picture&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://mythainote.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mythainote.com/" rel="alternate" type="text/html" /><updated>2019-07-06T07:10:12+00:00</updated><id>https://mythainote.com/</id><title type="html">My Thai Note</title><subtitle>A collection of notes about learning Thai language.</subtitle><entry><title type="html">Describe a picture - Takraw ball</title><link href="https://mythainote.com/describe-a-picture-takraw-ball" rel="alternate" type="text/html" title="Describe a picture - Takraw ball" /><published>2019-07-05T05:56:44+00:00</published><updated>2019-07-05T05:56:44+00:00</updated><id>https://mythainote.com/describe-a-picture-takraw-ball</id><content type="html" xml:base="https://mythainote.com/describe-a-picture-takraw-ball">&lt;p&gt;Maybe you know this ball, maybe not. It’s the ball of a very popular sport in Thailand.&lt;/p&gt;
+
+&lt;p&gt;Feel free to write a comment down the page with your sentences!&lt;/p&gt;
+
+&lt;h1 id=&quot;verified-sentences&quot;&gt;Verified sentences&lt;/h1&gt;
+
+&lt;h4 id=&quot;this-is-a-ball&quot;&gt;This is a ball.&lt;/h4&gt;
+
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;นี่คือบอล&lt;/span&gt;&lt;audio controls=&quot;&quot; preload=&quot;&quot; src=&quot;assets/sound/นี่คือบอล.mp3&quot;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;this-is-a-takraw-ball&quot;&gt;This is a Takraw ball.&lt;/h4&gt;
+
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;นี่คือลูกตะกร้อ&lt;/span&gt;&lt;audio controls=&quot;&quot; preload=&quot;&quot; src=&quot;assets/sound/นี่คือลูกตะกร้อ.mp3&quot;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;unverified-sentences&quot;&gt;Unverified sentences&lt;/h1&gt;
+
+&lt;h4 id=&quot;the-ball-is-on-the-ground&quot;&gt;The ball is on the ground.&lt;/h4&gt;
+
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;บอลอยู่บนพื้นดิน&lt;/span&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;takraw-is-a-popular-sport-in-south-east-asia&quot;&gt;Takraw is a popular sport in South East Asia.&lt;/h4&gt;
+
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;ตะกร้อเป็นกีฬายอดนิยมในเอเชียตะวันออกเฉียงใต้&lt;/span&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;you-cannot-use-your-hand&quot;&gt;You cannot use your hand.&lt;/h4&gt;
+
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;คุณไม่ใช้ได้มือของคุณ&lt;/span&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;you-can-use-your-feet-knee-torso-and-head&quot;&gt;You can use your feet, knee, torso and head.&lt;/h4&gt;
+
+&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;คุณใช้ได้เท้า, หัวเข่า, ลำตัวและหัว&lt;/span&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;lookup-words&quot;&gt;Lookup words&lt;/h1&gt;
+
+&lt;h4 id=&quot;ball-บอล&quot;&gt;Ball: &lt;span class=&quot;blue&quot;&gt;บอล&lt;/span&gt;&lt;/h4&gt;
+
+&lt;p&gt;(English word !)&lt;/p&gt;
+
+&lt;h4 id=&quot;takraw-ตะกร้อ&quot;&gt;Takraw: &lt;span class=&quot;blue&quot;&gt;ตะกร้อ&lt;/span&gt;&lt;/h4&gt;
+
+&lt;p&gt;(The name of the sport)&lt;/p&gt;
+
+&lt;h4 id=&quot;takraw-ball-ลูกตะกร้อ&quot;&gt;Takraw ball: &lt;span class=&quot;blue&quot;&gt;ลูกตะกร้อ&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;ground-พื้นดิน&quot;&gt;Ground: &lt;span class=&quot;blue&quot;&gt;พื้นดิน&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;sports-กีฬา&quot;&gt;Sports: &lt;span class=&quot;blue&quot;&gt;กีฬา&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;popular-นิยม&quot;&gt;Popular: &lt;span class=&quot;blue&quot;&gt;นิยม&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;highly-popular-ยอดนิยม&quot;&gt;Highly popular: &lt;span class=&quot;blue&quot;&gt;ยอดนิยม&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;south-east-asia-เอเชียตะวันออกเฉียงใต้&quot;&gt;South east Asia: &lt;span class=&quot;blue&quot;&gt;เอเชียตะวันออกเฉียงใต้&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;foot-เท้า&quot;&gt;Foot: &lt;span class=&quot;blue&quot;&gt;เท้า&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;knee-หัวเข่า&quot;&gt;Knee: &lt;span class=&quot;blue&quot;&gt;หัวเข่า&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;torso-ลำตัว&quot;&gt;Torso: &lt;span class=&quot;blue&quot;&gt;ลำตัว&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;head-หัว&quot;&gt;Head: &lt;span class=&quot;blue&quot;&gt;หัว&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h1 id=&quot;pattern-used&quot;&gt;Pattern used&lt;/h1&gt;
+
+&lt;p&gt;No pattern yet.&lt;/p&gt;
+
+&lt;h1 id=&quot;other&quot;&gt;Other&lt;/h1&gt;
+
+&lt;h3 id=&quot;pronoun&quot;&gt;Pronoun&lt;/h3&gt;
+
+&lt;h4 id=&quot;you-คุณ&quot;&gt;You: &lt;span class=&quot;blue&quot;&gt;คุณ&lt;/span&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;your-ของคุณ&quot;&gt;Your: &lt;span class=&quot;blue&quot;&gt;ของคุณ&lt;/span&gt;&lt;/h4&gt;
+
+&lt;p&gt;(Many people remove the ของ and just use the คุณ - Because they know it’s not in the first position, we are speaking about your).&lt;/p&gt;
+
+&lt;p&gt;More &lt;a href=&quot;https://en.wikipedia.org/wiki/Sepak_takraw&quot; title=&quot;Wikipage&quot;&gt;about the sport &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Joba</name></author><summary type="html">Maybe you know this ball, maybe not. It’s the ball of a very popular sport in Thailand.</summary></entry><entry><title type="html">Describe a picture - People</title><link href="https://mythainote.com/describe-a-picture-people" rel="alternate" type="text/html" title="Describe a picture - People" /><published>2019-07-04T08:00:43+00:00</published><updated>2019-07-04T08:00:43+00:00</updated><id>https://mythainote.com/describe-a-picture-people</id><content type="html" xml:base="https://mythainote.com/describe-a-picture-people">&lt;p&gt;Most of Thai people are very friendly! Let’s describe them with this picture&lt;/p&gt;
 
 &lt;p&gt;Feel free to write a comment down the page with your sentences!&lt;/p&gt;
 
