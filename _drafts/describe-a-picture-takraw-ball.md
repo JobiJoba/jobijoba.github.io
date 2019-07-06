@@ -31,6 +31,14 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">บอลอยู่บนพื้นดิน</span>
 
+#### Takraw is a popular sport in South East Asia.
+
+<span class="blue">ตะกร้อเป็นกีฬายอดนิยมในเอเชียตะวันออกเฉียงใต้</span>
+
+#### You cannot use your hand.
+
+<span class="blue">คุณไม่สามารถใช้มือของคุณ</span>
+
 # Lookup words
 
 #### Ball: <span class="blue">บอล</span>
@@ -45,6 +53,14 @@ Feel free to write a comment down the page with your sentences!
 
 #### Ground: <span class="blue">พื้นดิน</span>
 
+#### Sports: <span class="blue">กีฬา</span>
+
+#### Popular: <span class="blue">นิยม</span>
+
+#### Highly popular: <span class="blue">ยอดนิยม</span>
+
+#### South east Asia: <span class="blue">เอเชียตะวันออกเฉียงใต้</span>
+
 # Pattern used
 
 #### Present continuous
@@ -52,3 +68,7 @@ Feel free to write a comment down the page with your sentences!
 Use the word <span class="blue">กำลัง</span> in front of the verb to make the "ing" form of english ;)
 
 # Other
+
+More [about the sport ](https://en.wikipedia.org/wiki/Sepak_takraw "Wikipage")
+
+<br/>
