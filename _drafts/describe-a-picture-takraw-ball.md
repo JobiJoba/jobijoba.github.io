@@ -73,6 +73,10 @@ Use the word <span class="blue">กำลัง</span> in front of the verb to m
 
 #### You: <span class="blue">คุณ</span>
 
+#### Your: <span class="blue">ของคุณ</span> 
+
+(Many people remove the ของ and just use the คุณ - Because they know it's not in the first position, we are speaking about your). 
+
 More [about the sport ](https://en.wikipedia.org/wiki/Sepak_takraw "Wikipage")
 
 <br/><br/>
