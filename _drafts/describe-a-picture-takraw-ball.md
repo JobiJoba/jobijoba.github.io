@@ -39,6 +39,10 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">คุณไม่ใช้ได้มือของคุณ</span>
 
+#### You can use your feet, knee, torso and head.
+
+<span class="blue">คุณใช้ได้เท้า, หัวเข่า, ลำตัวและหัว</span>
+
 # Lookup words
 
 #### Ball: <span class="blue">บอล</span>
@@ -60,6 +64,14 @@ Feel free to write a comment down the page with your sentences!
 #### Highly popular: <span class="blue">ยอดนิยม</span>
 
 #### South east Asia: <span class="blue">เอเชียตะวันออกเฉียงใต้</span>
+
+#### Foot: <span class="blue">เท้า</span>
+
+#### Knee: <span class="blue">หัวเข่า</span>
+
+#### Torso: <span class="blue">ลำตัว</span>
+
+#### Head: <span class="blue">หัว</span>
 
 # Pattern used
 
