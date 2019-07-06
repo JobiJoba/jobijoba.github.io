@@ -37,7 +37,7 @@ Feel free to write a comment down the page with your sentences!
 
 #### You cannot use your hand.
 
-<span class="blue">คุณไม่สามารถใช้มือของคุณ</span>
+<span class="blue">คุณไม่ใช้ได้มือของคุณ</span>
 
 # Lookup words
 
@@ -69,6 +69,10 @@ Use the word <span class="blue">กำลัง</span> in front of the verb to m
 
 # Other
 
+### Pronoun
+
+#### You: <span class="blue">คุณ</span>
+
 More [about the sport ](https://en.wikipedia.org/wiki/Sepak_takraw "Wikipage")
 
-<br/>
+<br/><br/>
