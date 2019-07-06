@@ -75,9 +75,7 @@ Feel free to write a comment down the page with your sentences!
 
 # Pattern used
 
-#### Present continuous
-
-Use the word <span class="blue">กำลัง</span> in front of the verb to make the "ing" form of english ;)
+No pattern yet.
 
 # Other
 
