@@ -44,6 +44,10 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">หมามีสี่ขา</span>
 
+#### My dog is called Boby.
+
+<span class="blue">หมาของฉันชื่อ Boby</span>
+
 # Lookup words
 
 #### Dog: <span class="blue">หมา</span>
