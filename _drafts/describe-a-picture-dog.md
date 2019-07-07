@@ -36,6 +36,10 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">รักหมา</span>
 
+#### This is a house.
+
+<span class="blue">นี่คือบ้าน</span>
+
 # Lookup words
 
 #### Dog: <span class="blue">หมา</span>
