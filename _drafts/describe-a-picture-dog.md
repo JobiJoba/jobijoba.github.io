@@ -1,7 +1,7 @@
 ---
 layout: postimage
 current: postimage
-date: 2019-07-06 09:06:54 +0000
+date: 2019-07-06T09:06:54.000+00:00
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -32,13 +32,17 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">หมานี้มีหูยาว</span>
 
+#### I love dogs.
+
+<span class="blue">รักหมา</span>
+
 # Lookup words
 
-#### Dog: <span class="blue">หมา</span> 
+#### Dog: <span class="blue">หมา</span>
 
 You can also use <span class="blue">สุนัข</span> for dog, but it's more formal.
 
-#### 
+#### To love <span class="blue">รัก</span>
 
 # Pattern used
 
