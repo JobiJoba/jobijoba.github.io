@@ -40,6 +40,10 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">มีหมามากในประเทศไทย</span>
 
+#### Dogs have four legs.
+
+<span class="blue">หมามีสี่ขา</span>
+
 # Lookup words
 
 #### Dog: <span class="blue">หมา</span>
@@ -49,6 +53,8 @@ You can also use <span class="blue">สุนัข</span> for dog, but it's mor
 #### To love <span class="blue">รัก</span>
 
 #### Country: <span class="blue">ประเทศ</span>
+
+#### Leg: <span class="blue">ขา</span>
 
 # Pattern used
 
