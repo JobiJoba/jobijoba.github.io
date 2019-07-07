@@ -43,7 +43,7 @@ fields:
   label: author
   default: Joba
 pages:
-- _posts/describe-a-picture-dog.md
+- _posts/2019-07-06-describe-a-picture-dog.md
 - _posts/2019-07-04-describe-a-picture-people.md
 - _posts/2019-07-05-describe-a-picture-takraw-ball.md
 - _posts/2019-07-03-describe-a-picture-chilli.md

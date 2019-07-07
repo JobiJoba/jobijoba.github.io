@@ -60,12 +60,6 @@ You can also use <span class="blue">สุนัข</span> for dog, but it's mor
 
 #### Leg: <span class="blue">ขา</span>
 
-# Pattern used
-
-No pattern yet.
-
-# Other
-
-### Pronoun
+### 
 
 <br/><br/>
