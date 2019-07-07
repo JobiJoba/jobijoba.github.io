@@ -28,47 +28,17 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">หมานอนอยู่บนพื้น</span>
 
-#### Takraw is a popular sport in South East Asia.
+#### This dog has long ear.
 
-<span class="blue">ตะกร้อเป็นกีฬายอดนิยมในเอเชียตะวันออกเฉียงใต้</span>
-
-#### You cannot use your hand.
-
-<span class="blue">คุณไม่ใช้ได้มือของคุณ</span>
-
-#### You can use your feet, knee, torso and head.
-
-<span class="blue">คุณใช้ได้เท้า, หัวเข่า, ลำตัวและหัว</span>
+<span class="blue">หมานี้มีหูยาว</span>
 
 # Lookup words
 
-#### Ball: <span class="blue">บอล</span>
+#### Dog: <span class="blue">หมา</span> 
 
-(English word !)
+You can also use <span class="blue">สุนัข</span> for dog, but it's more formal.
 
-#### Takraw: <span class="blue">ตะกร้อ</span>
-
-(The name of the sport)
-
-#### Takraw ball: <span class="blue">ลูกตะกร้อ</span>
-
-#### Ground: <span class="blue">พื้นดิน</span>
-
-#### Sports: <span class="blue">กีฬา</span>
-
-#### Popular: <span class="blue">นิยม</span>
-
-#### Highly popular: <span class="blue">ยอดนิยม</span>
-
-#### South east Asia: <span class="blue">เอเชียตะวันออกเฉียงใต้</span>
-
-#### Foot: <span class="blue">เท้า</span>
-
-#### Knee: <span class="blue">หัวเข่า</span>
-
-#### Torso: <span class="blue">ลำตัว</span>
-
-#### Head: <span class="blue">หัว</span>
+#### 
 
 # Pattern used
 
@@ -77,13 +47,5 @@ No pattern yet.
 # Other
 
 ### Pronoun
-
-#### You: <span class="blue">คุณ</span>
-
-#### Your: <span class="blue">ของคุณ</span>
-
-(Many people remove the ของ and just use the คุณ - Because they know it's not in the first position, we are speaking about your).
-
-More [about the sport ](https://en.wikipedia.org/wiki/Sepak_takraw "Wikipage")
 
 <br/><br/>
