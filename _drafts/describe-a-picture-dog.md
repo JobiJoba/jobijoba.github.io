@@ -36,9 +36,9 @@ Feel free to write a comment down the page with your sentences!
 
 <span class="blue">รักหมา</span>
 
-#### This is a house.
+#### There is many dogs in Thailand.
 
-<span class="blue">นี่คือบ้าน</span>
+<span class="blue">มีหมามากในประเทศไทย</span>
 
 # Lookup words
 
@@ -47,6 +47,8 @@ Feel free to write a comment down the page with your sentences!
 You can also use <span class="blue">สุนัข</span> for dog, but it's more formal.
 
 #### To love <span class="blue">รัก</span>
+
+#### Country: <span class="blue">ประเทศ</span>
 
 # Pattern used
 
