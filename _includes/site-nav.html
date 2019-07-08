@@ -2,12 +2,17 @@
   <div class="site-nav-left">
     {% if page.current != 'home' %} {% if site.logo %}
     <a class="site-nav-logo" href="{{ site.production_url }}{{ site.urlbase }}"
-      ><img src="{{ site.urlbase }}{{ site.logo }}" alt="{{ site.title }}"
+      ><img
+        src="{{ site.urlbase }}{{ site.logo }}"
+        title="logo"
+        alt="{{ site.title }}"
     /></a>
     {% else %}
-    <a class="site-nav-logo" href="{{ site.production_url }}{{ site.urlbase }}">{{
-      site.title
-    }}</a>
+    <a
+      class="site-nav-logo"
+      href="{{ site.production_url }}{{ site.urlbase }}"
+      >{{ site.title }}</a
+    >
     {% endif %} {% endif %} {% if page.navigation %} {% include navigation.html
     %} {% endif %}
   </div>
