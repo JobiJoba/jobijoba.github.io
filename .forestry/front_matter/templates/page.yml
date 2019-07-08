@@ -35,3 +35,5 @@ fields:
   name: subclass
   label: subclass
   default: post page
+pages:
+- about/index.md
