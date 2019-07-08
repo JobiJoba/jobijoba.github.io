@@ -60,6 +60,4 @@ You can also use <span class="blue">สุนัข</span> for dog, but it's mor
 
 #### Leg: <span class="blue">ขา</span>
 
-### 
-
 <br/><br/>
