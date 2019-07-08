@@ -62,5 +62,14 @@ fields:
     max: 
     labelField: 
   label: vocabulary
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
 pages:
 - _posts/2019-05-26-on-the-table.md
