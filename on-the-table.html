@@ -149,7 +149,10 @@ into the {body} of the default.hbs template -->
   <div class="site-nav-left">
      
     <a class="site-nav-logo" href="https://mythainote.com/"
-      ><img src="/assets/images/logo_transparent.png" alt="My Thai Note"
+      ><img
+        src="/assets/images/logo_transparent.png"
+        title="logo"
+        alt="My Thai Note"
     /></a>
        <ul class="nav" role="menu">
   <li class="nav-home" role="menuitem">
@@ -306,7 +309,7 @@ Mike</strong> + “is on” + <strong>the table</strong></p>
                     
                         <section class="author-card">
                             
-                                <img class="author-profile-image" src="/assets/images/moi.png" alt="Joba" />
+                                <img class="author-profile-image"  title="author profile image" src="/assets/images/moi.jpg" alt="Joba" />
                             
                             <section class="author-card-content">
                                 <h4 class="author-card-name"><a href="/author/Joba">Joba</a></h4>
@@ -400,7 +403,8 @@ Mike</strong> + “is on” + <strong>the table</strong></p>
         
       <img
         class="author-profile-image"
-        src="/assets/images/moi.png"
+        title="author profile image"
+        src="/assets/images/moi.jpg"
         alt="Joba"
       />
       
@@ -421,51 +425,58 @@ Mike</strong> + “is on” + <strong>the table</strong></p>
             
                 
 
-    <article class="post-card post-template">
+<article
+  class="post-card post-template"
+>
+  
+  <a
+    class="post-card-image-link"
+    href="/welcome"
+  >
+    <div
+      class="post-card-image"
+      style="background-image: url(/assets/images/image1.jpg)"
+    ></div>
+  </a>
+  
+  <div class="post-card-content">
+    <a
+      class="post-card-content-link"
+      href="/welcome"
+    >
+      <header class="post-card-header">
+         
         
-            <a class="post-card-image-link" href="/welcome">
-                <div class="post-card-image" style="background-image: url(/assets/images/image1.jpg)"></div>
-            </a>
-        
-        <div class="post-card-content">
-            <a class="post-card-content-link" href="/welcome">
-                <header class="post-card-header">
-                    
-                        
-                            
-                                <span class="post-card-tags">Other</span>
-                            
-                        
-                    
+        <span class="post-card-tags">Other</span>
+          
 
-                    <h2 class="post-card-title">Welcome to My Thai Note</h2>
-                </header>
-                <section class="post-card-excerpt">
-                    
-                        <p></p>
-                    
-                </section>
-            </a>
-            <footer class="post-card-meta">
-                
-                    
-                        
-                        <img class="author-profile-image" src="/assets/images/moi.png" alt="Joba" />
-                        
-                        <span class="post-card-author">
-                            <a href="/author/Joba/">Joba</a>
-                        </span>
-                    
-                
-                <span class="reading-time">
-                    
-                    
-                      1 min read
-                    
-                </span>
-            </footer>
-        </div>
-    </article>
+        <h2 class="post-card-title">Welcome to My Thai Note</h2>
+      </header>
+      <section class="post-card-excerpt">
+        
+        <p></p>
+        
+      </section>
+    </a>
+    <footer class="post-card-meta">
+        
+      <img
+        class="author-profile-image"
+        title="author profile image"
+        src="/assets/images/moi.jpg"
+        alt="Joba"
+      />
+      
+      <span class="post-card-author">
+        <a href="/author/Joba/">Joba</a>
+      </span>
+       
+      <span class="reading-time">
+          1 min read 
+      </span>
+    </footer>
+  </div>
+</article>
 
             
 
@@ -480,6 +491,7 @@ Mike</strong> + “is on” + <strong>the table</strong></p>
       
       <img
         src="/assets/images/logo_transparent.png"
+        title="logo"
         alt="My Thai Note icon"
       />
       
@@ -521,7 +533,7 @@ Mike</strong> + “is on” + <strong>the table</strong></p>
             <a class="subscribe-overlay-close" href="#"></a>
             <div class="subscribe-overlay-content">
                 
-                    <img class="subscribe-overlay-logo" src="/assets/images/logo_transparent.png" alt="My Thai Note" />
+                    <img class="subscribe-overlay-logo" title="logo" src="/assets/images/logo_transparent.png" alt="My Thai Note" />
                 
                 <h2 class="subscribe-overlay-title">Subscribe to My Thai Note</h2>
                 <p class="subscribe-overlay-description">Receive picture before everyone and keep up motivation!</p>

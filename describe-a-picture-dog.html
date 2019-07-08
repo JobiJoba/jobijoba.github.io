@@ -149,7 +149,10 @@ into the {body} of the default.hbs template -->
   <div class="site-nav-left">
      
     <a class="site-nav-logo" href="https://mythainote.com/"
-      ><img src="/assets/images/logo_transparent.png" alt="My Thai Note"
+      ><img
+        src="/assets/images/logo_transparent.png"
+        title="logo"
+        alt="My Thai Note"
     /></a>
        <ul class="nav" role="menu">
   <li class="nav-home" role="menuitem">
@@ -317,7 +320,7 @@ into the {body} of the default.hbs template -->
                     
                         <section class="author-card">
                             
-                                <img class="author-profile-image" src="/assets/images/moi.png" alt="Joba" />
+                                <img class="author-profile-image"  title="author profile image" src="/assets/images/moi.jpg" alt="Joba" />
                             
                             <section class="author-card-content">
                                 <h4 class="author-card-name"><a href="/author/Joba">Joba</a></h4>
@@ -452,45 +455,55 @@ into the {body} of the default.hbs template -->
             
                 
 
-    <article class="post-card post-template">
+<article
+  class="post-card post-template"
+>
+  
+  <a
+    class="post-card-image-link"
+    href="/describe-a-picture-takraw-ball"
+  >
+    <div
+      class="post-card-image"
+      style="background-image: url(/assets/images/takrawball.jpg)"
+    ></div>
+  </a>
+  
+  <div class="post-card-content">
+    <a
+      class="post-card-content-link"
+      href="/describe-a-picture-takraw-ball"
+    >
+      <header class="post-card-header">
         
-            <a class="post-card-image-link" href="/describe-a-picture-takraw-ball">
-                <div class="post-card-image" style="background-image: url(/assets/images/takrawball.jpg)"></div>
-            </a>
-        
-        <div class="post-card-content">
-            <a class="post-card-content-link" href="/describe-a-picture-takraw-ball">
-                <header class="post-card-header">
-                    
 
-                    <h2 class="post-card-title">Describe a picture - Takraw ball</h2>
-                </header>
-                <section class="post-card-excerpt">
-                    
-                        <p></p>
-                    
-                </section>
-            </a>
-            <footer class="post-card-meta">
-                
-                    
-                        
-                        <img class="author-profile-image" src="/assets/images/moi.png" alt="Joba" />
-                        
-                        <span class="post-card-author">
-                            <a href="/author/Joba/">Joba</a>
-                        </span>
-                    
-                
-                <span class="reading-time">
-                    
-                    
-                      1 min read
-                    
-                </span>
-            </footer>
-        </div>
-    </article>
+        <h2 class="post-card-title">Describe a picture - Takraw ball</h2>
+      </header>
+      <section class="post-card-excerpt">
+        
+        <p></p>
+        
+      </section>
+    </a>
+    <footer class="post-card-meta">
+        
+      <img
+        class="author-profile-image"
+        title="author profile image"
+        src="/assets/images/moi.jpg"
+        alt="Joba"
+      />
+      
+      <span class="post-card-author">
+        <a href="/author/Joba/">Joba</a>
+      </span>
+       
+      <span class="reading-time">
+          1 min read 
+      </span>
+    </footer>
+  </div>
+</article>
 
             
 
@@ -505,6 +518,7 @@ into the {body} of the default.hbs template -->
       
       <img
         src="/assets/images/logo_transparent.png"
+        title="logo"
         alt="My Thai Note icon"
       />
       
@@ -546,7 +560,7 @@ into the {body} of the default.hbs template -->
             <a class="subscribe-overlay-close" href="#"></a>
             <div class="subscribe-overlay-content">
                 
-                    <img class="subscribe-overlay-logo" src="/assets/images/logo_transparent.png" alt="My Thai Note" />
+                    <img class="subscribe-overlay-logo" title="logo" src="/assets/images/logo_transparent.png" alt="My Thai Note" />
                 
                 <h2 class="subscribe-overlay-title">Subscribe to My Thai Note</h2>
                 <p class="subscribe-overlay-description">Receive picture before everyone and keep up motivation!</p>
