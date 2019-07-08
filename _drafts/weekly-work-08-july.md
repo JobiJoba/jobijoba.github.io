@@ -12,4 +12,23 @@ tags:
 - progression
 
 ---
-Time to do a wrap up on my progression this week. 
+Time to do a wrap up on my progression this week.
+
+I've mainly work on this website for my Thai by adding 6 Describe a picture article. 
+
+* [House](https://mythainote.com/describe-a-picture-house "house")
+
+
+* [Train](https://mythainote.com/describe-a-picture-train "Train")
+
+
+* [Chilli](https://mythainote.com/describe-a-picture-chilli "Chilli")
+
+
+* [People](https://mythainote.com/describe-a-picture-people "People")
+
+
+* [Takraw ball](https://mythainote.com/describe-a-picture-takraw-ball "Takraw ball")
+
+
+* [Dog](https://mythainote.com/describe-a-picture-dog "Dog")
