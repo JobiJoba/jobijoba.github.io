@@ -1,7 +1,7 @@
 ---
 layout: postimage
 current: postimage
-date: 2019-07-04 08:00:43 +0000
+date: 2019-07-04T08:00:43.000+00:00
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -10,6 +10,8 @@ navigation: true
 title: Describe a picture - People
 tags:
 - picture
+description: Describe a picture of People in Thai. Many useful words and sentences
+  in Thai.
 
 ---
 Most of Thai people are very friendly! Let's describe them with this picture

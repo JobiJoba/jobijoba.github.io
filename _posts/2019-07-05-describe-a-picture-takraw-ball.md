@@ -1,7 +1,7 @@
 ---
 layout: postimage
 current: postimage
-date: 2019-07-05 05:56:44 +0000
+date: 2019-07-05T05:56:44.000+00:00
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -9,6 +9,8 @@ cover: assets/images/takrawball.jpg
 navigation: true
 title: Describe a picture - Takraw ball
 tags: []
+description: Describe a picture of a Takraw ball in Thai. Many useful words and sentences
+  in Thai.
 
 ---
 Maybe you know this ball, maybe not. It's the ball of a very popular sport in Thailand.
