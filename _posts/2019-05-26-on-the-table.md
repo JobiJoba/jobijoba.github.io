@@ -2,6 +2,7 @@
 layout: postrow
 current: postrow
 date: 2019-05-26T11:54:22.000+00:00
+description: How to say on the table in Thai
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -9,19 +10,19 @@ cover: assets/images/table.jpg
 navigation: true
 title: On the table
 tags:
-- fast-note
-- unnecessary-word
+  - fast-note
+  - unnecessary-word
 vocabulary:
-- word: ปากกา
-  english: Pen
-- word: โต๊ะ
-  english: Table
-- word: แมว
-  english: Cat
-- word: ระเบียง
-  english: Balcony
-
+  - word: ปากกา
+    english: Pen
+  - word: โต๊ะ
+    english: Table
+  - word: แมว
+    english: Cat
+  - word: ระเบียง
+    english: Balcony
 ---
+
 There are a lot of stuff on a table ... but how to say that in Thai?
 
 The pen is on the table or the phone is on the table.
