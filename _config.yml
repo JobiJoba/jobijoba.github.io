@@ -12,7 +12,8 @@ url: "https://mythainote.com"
 
 # Website info
 title: My Thai Note - Learning Thai online daily
-description: A collection of notes about learning Thai language online and daily. Follow an active learner!
+description: A collection of notes about learning Thai language online and daily.
+homemetadescription: A collection of notes about learning Thai language online and daily. Follow an active learner!
 cover: assets/images/blog-cover.jpg
 logo: assets/images/logo_transparent.png
 logo_dark: assets/images/logo_transparent.png
