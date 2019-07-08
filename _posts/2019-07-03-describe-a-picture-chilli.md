@@ -10,6 +10,8 @@ navigation: true
 title: Describe a picture - Chilli
 tags:
 - picture
+description: Describe a picture of a Chilli in Thai. Many useful words and sentences
+  in Thai.
 
 ---
 Chilli ... if you went to Thailand without encounter chilli, you were in the wrong country ^^
@@ -84,4 +86,4 @@ Most of Thai dishes <span class="blue">อาหารไทยส่วนใ�
 
 Most of people <span class="blue">คนส่วนใหญ่</span>
 
-I also saw somewhere instead of   <span class="blue">ใหญ่</span> they use <span class="blue">มาก</span> ... I still don't know why so if you have an idea ! 
+I also saw somewhere instead of   <span class="blue">ใหญ่</span> they use <span class="blue">มาก</span> ... I still don't know why so if you have an idea !

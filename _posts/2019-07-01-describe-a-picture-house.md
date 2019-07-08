@@ -10,6 +10,8 @@ navigation: true
 title: Describe a Picture - House
 tags:
 - picture
+description: Describe a picture of a house in Thai. Many useful words and sentences
+  in Thai.
 
 ---
 Welcome to that new series of stuff that I want to do to improve my Thai.

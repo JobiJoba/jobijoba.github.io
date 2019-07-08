@@ -10,6 +10,8 @@ navigation: true
 title: Describe a picture - Dog
 tags:
 - picture
+description: Describe a picture of a dog in Thai. Many useful words and sentences
+  in Thai.
 
 ---
 There is a lot of dogs in Thailand! Let's talk about that cute animal.
