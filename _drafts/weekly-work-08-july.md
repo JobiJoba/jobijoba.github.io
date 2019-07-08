@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-date: 2019-07-08 07:17:35 +0000
+date: 2019-07-08T07:17:35.000+00:00
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -10,6 +10,8 @@ navigation: true
 title: Weekly work - 08 July
 tags:
 - progression
+description: Progression of the second week of my Thai learning. A lot of good resource
+  to learn Thai
 
 ---
 Time to do a wrap up on my progression this week.
@@ -27,4 +29,4 @@ This website is not really **live** yet. I'm still doing some **fine tuning** he
 
 I miss a day for example I did **6 articles** instead of 7 (The goal was to make one article a day). 
 
-I think that **5 articles a week** will be a good number, leaving me 2 day off and also 2 days to find **new ideas** and **develop the website**. 
+I think that **5 articles a week** will be a good number, leaving me 2 day off and also 2 days to find **new ideas** and **develop the website**.
