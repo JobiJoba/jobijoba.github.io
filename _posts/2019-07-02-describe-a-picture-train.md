@@ -1,7 +1,7 @@
 ---
 layout: postimage
 current: postimage
-date: 2019-07-02 08:00:37 +0000
+date: 2019-07-02T08:00:37.000+00:00
 class: post-template
 subclass: post tag-getting-started
 author: Joba
@@ -10,6 +10,8 @@ navigation: true
 title: Describe a picture - Train
 tags:
 - picture
+description: Describe a picture of Train in Thai. Many useful words and sentences
+  in Thai.
 
 ---
 Who didn't took the night train from Bangkok to Chiang Mai ? It's a great experience 
