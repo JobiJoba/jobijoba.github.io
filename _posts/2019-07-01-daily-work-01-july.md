@@ -10,7 +10,7 @@ navigation: false
 title: Weekly work - 01 July
 tags:
 - progression
-description: Detail of my progression for the first week. Some YouTube video, Thai
+description: Detail of my progression for the first week. Some YouTube video and Thai
   typing.
 
 ---
