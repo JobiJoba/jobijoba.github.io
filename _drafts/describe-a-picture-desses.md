@@ -13,15 +13,15 @@ description: 'Clothes are one of the thing we saw in first from people. Let''s d
 tags: []
 
 ---
-Clothes ! What an important subject no ? When you describe someone, you 
+Clothes ! What an important subject no ? When you describe someone, you will also describe his clothes like "He wears a jeans", etc etc 
 
 Feel free to write a comment down the page with your sentences!
 
 ## Verified sentences
 
-#### This is chilli.
+#### The picture shows clothes.
 
-<span class="blue">นี่คือพริก</span> <audio controls preload src="assets/sound/นี่คือพริก.mp3">
+<span class="blue">ภาพแสดงเสื้อผ้า</span> <audio controls preload src="assets/sound/ภาพแสดงเสื้อผ้า.mp3">
 
 ## Unverified sentences
 
