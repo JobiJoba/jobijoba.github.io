@@ -13,7 +13,7 @@ description: 'Clothes are one of the thing we saw in first from people. Let''s d
 tags: []
 
 ---
-Traditional Thai dresses are very beautiful. A lot of Thai people still wear them so it's important to know how to describe them. Also, describing clothes is a good idea to learn the language!
+Clothes ! What an important subject no ? When you describe someone, you 
 
 Feel free to write a comment down the page with your sentences!
 
