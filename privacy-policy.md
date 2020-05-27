@@ -6,7 +6,6 @@ class: page-template
 subclass: post page
 description: privacy-policy
 title: Privacy policy
-published: false
 
 ---
 \**Privacy Policy**
