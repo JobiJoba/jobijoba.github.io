@@ -52,5 +52,5 @@ fields:
   label: author
   default: Joba
 pages:
-- _posts/2019-07-08-weekly-work-08-july.md
 - _posts/2019-05-26-welcome.md
+- _posts/2019-07-08-weekly-work-08-july.md

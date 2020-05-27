@@ -37,3 +37,4 @@ fields:
   default: post page
 pages:
 - about/index.md
+- privacy-policy.md
